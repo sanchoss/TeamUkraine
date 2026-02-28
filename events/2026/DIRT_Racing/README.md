@@ -28,6 +28,16 @@
 - Формати: Points (очкові спринти/KOM), TTR (командна гонка на час), iTT (індивідуальна розділка)
 - Детальна інформація по етапах: [dirtracingseries.com/events](https://dirtracingseries.com/events)
 
+#### Час старту — EMEA C слот
+| Етап | Дата | UTC | EET/EEST | EST/EDT | Примітка |
+|------|------|-----|----------|---------|----------|
+| 1 | 03 бер | 18:15 | 20:15 EET | 13:15 EST | |
+| 2 | 10 бер | 18:15 | 20:15 EET | 14:15 EDT | 🇺🇸 DST з 8 бер |
+| 3 | 17 бер | 18:15 | 20:15 EET | 14:15 EDT | |
+| 4 | 24 бер | 18:15 | 20:15 EET | 14:15 EDT | |
+| 5 | 31 бер | 18:15 | 21:15 EEST | 14:15 EDT | 🇪🇺 DST з 29 бер |
+| 6 | 31 бер | 18:15 | 21:15 EEST | 14:15 EDT | |
+
 ---
 ## 🇬🇧 English
 
@@ -55,3 +65,13 @@
 - Stages 5 and 6 are both on the same day (March 31)
 - Formats: Points (sprint/KOM points), TTR (team timed race), iTT (individual TT)
 - Full stage details: [dirtracingseries.com/events](https://dirtracingseries.com/events)
+
+#### Race Times — EMEA C slot
+| Stage | Date | UTC | EET/EEST | EST/EDT | Note |
+|-------|------|-----|----------|---------|------|
+| 1 | Mar 03 | 18:15 | 20:15 EET | 13:15 EST | |
+| 2 | Mar 10 | 18:15 | 20:15 EET | 14:15 EDT | 🇺🇸 DST from Mar 8 |
+| 3 | Mar 17 | 18:15 | 20:15 EET | 14:15 EDT | |
+| 4 | Mar 24 | 18:15 | 20:15 EET | 14:15 EDT | |
+| 5 | Mar 31 | 18:15 | 21:15 EEST | 14:15 EDT | 🇪🇺 DST from Mar 29 |
+| 6 | Mar 31 | 18:15 | 21:15 EEST | 14:15 EDT | |
