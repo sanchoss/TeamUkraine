@@ -1,17 +1,17 @@
-# Discord — Team Ukraine
+# 💬 Discord — Team Ukraine
 
 ---
 ## 🇺🇦 Українська
 
-### Інформація про сервер
+### ℹ️ Інформація про сервер
 | Поле | Значення |
 |------|----------|
 | Посилання-запрошення | `TODO` |
 | Канали | #загальне, #гонки, #результати, #тренування |
 
-### Шаблони оголошень
+### 📣 Шаблони оголошень
 
-#### Щотижнева реєстрація на гонку
+#### 📝 Щотижнева реєстрація на гонку
 ```
 🇺🇦 **Team Ukraine — [СЕРІЯ] [Етап/Тижд #]**
 📅 Дата: 
@@ -30,7 +30,7 @@
 **План гонки:** [посилання або короткі нотатки]
 ```
 
-#### Результати після гонки
+#### 🏁 Результати після гонки
 ```
 🏁 **Результати — [СЕРІЯ] [Етап #]**
 📅 Дата: 
@@ -47,7 +47,7 @@
 Молодці, команда! 🇺🇦
 ```
 
-#### Оголошення нової серії
+#### 📢 Оголошення нової серії
 ```
 📢 **Нова серія: [НАЗВА СЕРІЇ]**
 📅 Дати: 
@@ -60,15 +60,15 @@
 ---
 ## 🇬🇧 English
 
-### Server Info
+### ℹ️ Server Info
 | Field | Value |
 |-------|-------|
 | Invite Link | `TODO` |
 | Channels | #general, #race-events, #results, #training |
 
-### Announcement Templates
+### 📣 Announcement Templates
 
-#### Weekly Race Signup
+#### 📝 Weekly Race Signup
 ```
 🇺🇦 **Team Ukraine — [SERIES] [Stage/Week #]**
 📅 Date: 
@@ -87,7 +87,7 @@ Cat D:
 **Race Plan:** [link to event file or brief notes]
 ```
 
-#### Post-Race Results
+#### 🏁 Post-Race Results
 ```
 🏁 **Results — [SERIES] [Stage #]**
 📅 Date: 
@@ -104,7 +104,7 @@ Cat D:
 Well done team! 🇺🇦
 ```
 
-#### New Event Series Announcement
+#### 📢 New Event Series Announcement
 ```
 📢 **New Series: [SERIES NAME]**
 📅 Dates: 

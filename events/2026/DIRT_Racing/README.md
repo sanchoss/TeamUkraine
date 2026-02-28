@@ -1,9 +1,9 @@
-# DIRT Racing Series Season 11 (2026) — Team Ukraine
+# 💨 DIRT Racing Series Season 11 (2026) — Team Ukraine
 
 ---
 ## 🇺🇦 Українська
 
-### Інформація про серію
+### ℹ️ Інформація про серію
 | Поле | Значення |
 |------|----------|
 | **Серія** | DIRT Racing Series |
@@ -13,7 +13,7 @@
 | **Період** | Березень 2026 (5 тижнів, 6 етапів) |
 | **Формат** | Points / TTR / iTT |
 
-### Етапи
+### 🚩 Етапи
 | # | Дата | Маршрут | Світ | Формат | Класифікація | Дистанція | Набір | Статус |
 |---|------|---------|------|--------|-------------|-----------|-------|--------|
 | 1 | 2026-03-03 | <a href="https://zwiftinsider.com/route/downtown-titans" target="_blank">Downtown Titans</a> | Watopia | Points | Hilly | 24.6 км | 292 м | 🔜 |
@@ -23,12 +23,12 @@
 | 5 | 2026-03-31 | <a href="https://zwiftinsider.com/route/two-village-loop" target="_blank">Two Village Loop</a> | Makuri Islands | iTT | Flat | 12.9 км | 88 м | 🔜 |
 | 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.0 км | 130 м | 🔜 |
 
-### Примітки
+### 📌 Примітки
 - Етапи 5 та 6 проходять в один день (31 березня)
 - Формати: Points (очкові спринти/KOM), TTR (командна гонка на час), iTT (індивідуальна розділка)
 - Детальна інформація по етапах: [dirtracingseries.com/events](https://dirtracingseries.com/events)
 
-#### Час старту — EMEA C слот
+#### ⏰ Час старту — EMEA C слот
 | Етап | Дата | UTC | EET/EEST | EST/EDT | Примітка |
 |------|------|-----|----------|---------|----------|
 | 1 | 03 бер | 18:15 | 20:15 EET | 13:15 EST | |
@@ -41,7 +41,7 @@
 ---
 ## 🇬🇧 English
 
-### Series Info
+### ℹ️ Series Info
 | Field | Value |
 |-------|-------|
 | **Series** | DIRT Racing Series |
@@ -51,7 +51,7 @@
 | **Period** | March 2026 (5 weeks, 6 stages) |
 | **Format** | Points / TTR / iTT |
 
-### Stages
+### 🚩 Stages
 | # | Date | Route | World | Format | Classification | Distance | Elevation | Status |
 |---|------|-------|-------|--------|---------------|----------|-----------|--------|
 | 1 | 2026-03-03 | <a href="https://zwiftinsider.com/route/downtown-titans" target="_blank">Downtown Titans</a> | Watopia | Points | Hilly | 24.6 km | 292 m | 🔜 |
@@ -61,12 +61,12 @@
 | 5 | 2026-03-31 | <a href="https://zwiftinsider.com/route/two-village-loop" target="_blank">Two Village Loop</a> | Makuri Islands | iTT | Flat | 12.9 km | 88 m | 🔜 |
 | 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.0 km | 130 m | 🔜 |
 
-### Notes
+### 📌 Notes
 - Stages 5 and 6 are both on the same day (March 31)
 - Formats: Points (sprint/KOM points), TTR (team timed race), iTT (individual TT)
 - Full stage details: [dirtracingseries.com/events](https://dirtracingseries.com/events)
 
-#### Race Times — EMEA C slot
+#### ⏰ Race Times — EMEA C slot
 | Stage | Date | UTC | EET/EEST | EST/EDT | Note |
 |-------|------|-----|----------|---------|------|
 | 1 | Mar 03 | 18:15 | 20:15 EET | 13:15 EST | |

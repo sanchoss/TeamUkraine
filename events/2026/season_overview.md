@@ -1,23 +1,23 @@
-# Огляд сезону 2026 / 2026 Season Overview — Team Ukraine
+# 📅 Огляд сезону 2026 / 2026 Season Overview — Team Ukraine
 
 ---
 ## 🇺🇦 Українська
 
-### Цілі
+### 🎯 Цілі
 - [ ] Участь у ZRL Сезон ___
 - [ ] Щотижнева участь у WTRL TTT
 - [ ] Збільшити склад до ___ активних гонщиків
 - [ ] Покращити середню категорію команди
 
-### Календар серій
+### 📆 Календар серій
 
-#### Zwift Racing League (ZRL)
+#### 🏟️ Zwift Racing League (ZRL)
 | Етап | Дата | Маршрут | Світ | Кат | Результат | Примітки |
 |------|------|---------|------|-----|-----------|----------|
 | 1 | | | | | | |
 | 2 | | | | | | |
 
-#### WTRL Командна гонка на час (TTT)
+#### ⏱️ WTRL Командна гонка на час (TTT)
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
 |---|------|---------|-----|-----------|----------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | 🔜 |
@@ -25,7 +25,7 @@
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
-#### Flamme Rouge Racing (FRR) — Season 5
+#### 🔥 Flamme Rouge Racing (FRR) — Season 5
 | Серія | Дати | Етапів | Статус |
 |-------|------|--------|--------|
 | Tour Watopia | 3–11 січня | 8 | ✅ |
@@ -42,13 +42,13 @@
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 км | 88 м |
 | 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.0 км | 130 м |
 
-#### Інші серії
+#### 📋 Інші серії
 | Серія | Дати | Подій | Статус |
 |-------|------|-------|--------|
 | SISU | | | |
 | Спільнотні | | | |
 
-### Статистика сезону
+### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
 | Всього подій | 0 |
@@ -56,7 +56,7 @@
 | Активних гонщиків | 0 |
 | Нових учасників | 0 |
 
-### Щомісячна активність
+### 📅 Щомісячна активність
 | Місяць | Подій | Високі очки |
 |--------|-------|-------------|
 | Січ | | FRR Tour Watopia (8 етапів) |
@@ -75,21 +75,21 @@
 ---
 ## 🇬🇧 English
 
-### Goals
+### 🎯 Goals
 - [ ] Compete in ZRL Season ___
 - [ ] Weekly WTRL TTT participation
 - [ ] Grow roster to ___ active riders
 - [ ] Improve team category average
 
-### Series Calendar
+### 📆 Series Calendar
 
-#### Zwift Racing League (ZRL)
+#### 🏟️ Zwift Racing League (ZRL)
 | Stage | Date | Route | World | Cat | Result | Notes |
 |-------|------|-------|-------|-----|--------|-------|
 | 1 | | | | | | |
 | 2 | | | | | | |
 
-#### WTRL Team Time Trial (TTT)
+#### ⏱️ WTRL Team Time Trial (TTT)
 | # | Date | Route | Type | Distance | Notes |
 |---|------|-------|------|----------|-------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | 🔜 |
@@ -97,14 +97,14 @@
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
-#### Flamme Rouge Racing (FRR) — Season 5
+#### 🔥 Flamme Rouge Racing (FRR) — Season 5
 | Series | Dates | Stages | Status |
 |--------|-------|--------|--------|
 | Tour Watopia | Jan 3–11 | 8 | ✅ |
 | World Tour | Feb 14–22 | 8 | ✅ |
 | Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 |
 
-#### DIRT Racing Series — Season 11
+#### 💨 DIRT Racing Series — Season 11
 | # | Date | Route | World | Format | Distance | Elevation |
 |---|------|-------|-------|--------|----------|-----------|
 | 1 | 2026-03-03 | Downtown Titans | Watopia | Points | 24.6 km | 292 m |
@@ -114,13 +114,13 @@
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 km | 88 m |
 | 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.0 km | 130 m |
 
-#### Other Series
+#### 📋 Other Series
 | Series | Dates | Events | Status |
 |--------|-------|--------|--------|
 | SISU | | | |
 | Community | | | |
 
-### Season Stats
+### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
 | Total events | 0 |
@@ -128,7 +128,7 @@
 | Active riders | 0 |
 | New members joined | 0 |
 
-### Monthly Activity
+### 📅 Monthly Activity
 | Month | Events | Highlights |
 |-------|--------|------------|
 | Jan | | FRR Tour Watopia (8 stages) |

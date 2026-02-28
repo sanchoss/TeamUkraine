@@ -1,9 +1,9 @@
-# FRR 2026 — Team Ukraine
+# 🔥 FRR 2026 — Team Ukraine
 
 ---
 ## 🇺🇦 Українська
 
-### Інформація про серію
+### ℹ️ Інформація про серію
 | Поле | Значення |
 |------|----------|
 | **Серія** | Flamme Rouge Racing — Season 5 |
@@ -11,14 +11,14 @@
 | **Discord** | [FRR Discord](https://discord.com/channels/898590348933226557/1426969879138930758) |
 | **Реєстрація** | Відкрита з 1 лютого |
 
-### Участь у серіях
+### 📋 Участь у серіях
 | Назва серії | Дати | Етапів | Статус |
 |-------------|------|--------|--------|
 | Tour Watopia | 3–11 січня | 8 | ✅ Завершено |
 | World Tour | 14–22 лютого | 8 | ✅ Завершено |
 | Grand Tour Triquetra | 25 квітня – 17 травня | 21 | 🔜 Майбутній |
 
-### World Tour (завершено)
+### 🌍 World Tour (завершено)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
 |---|------|---------|------|-----|-----------|-------|
 | 1 | 2026-02-14 Сб | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | London | Hilly | 41 км | 515 м |
@@ -32,7 +32,7 @@
 
 > ⚠️ **Результати обробляються…** Discord оголосить, коли буде готово.
 
-### Grand Tour Triquetra (майбутній)
+### 🔺 Grand Tour Triquetra (майбутній)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
 |---|------|---------|------|-----|-----------|-------|
 | 1 | 2026-04-25 Сб | <a href="https://zwiftinsider.com/route/spinfinity-ultra" target="_blank">Spinfinity Ultra</a> | New York | Flat | 47 км | 330 м |
@@ -57,7 +57,7 @@
 | 20 | 2026-05-16 Сб | Room 101 | Watopia | Mountain | 101 км | 2300 м |
 | 21 | 2026-05-17 Нд | <a href="https://zwiftinsider.com/route/champs-elysees" target="_blank">Champs Elysees</a> | Paris | Flat | 42 км | 270 м |
 
-#### Час старту
+#### ⏰ Час старту
 | Тип | UTC | EET (UTC+2) | EST (UTC−5) |
 |------|-----|-------------|-------------|
 | Основні | 06:00 | 08:00 | 01:00 |
@@ -74,7 +74,7 @@
 
 > Вихідні: 19:30 замінює 18:45. ITT часи додаються до основних (18:45 → 18:30).
 
-### Класифікація гонщиків FRR
+### 🌶️ Класифікація гонщиків FRR
 | Клас | Код | Вт/кг | Ліга |
 |-------|------|-------|------|
 | CAPSAICIN | CAP | 4.7+ | Alpha |
@@ -91,7 +91,7 @@
 ---
 ## 🇬🇧 English
 
-### Series Info
+### ℹ️ Series Info
 | Field | Value |
 |-------|-------|
 | **Series** | Flamme Rouge Racing — Season 5 |
@@ -99,14 +99,14 @@
 | **Discord** | [FRR Discord](https://discord.com/channels/898590348933226557/1426969879138930758) |
 | **Registration** | Open since February 1 |
 
-### Series Participation
+### 📋 Series Participation
 | Series Name | Dates | Stages | Status |
 |-------------|-------|--------|--------|
 | Tour Watopia | Jan 3–11 | 8 | ✅ Completed |
 | World Tour | Feb 14–22 | 8 | ✅ Completed |
 | Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 Upcoming |
 
-### World Tour (completed)
+### 🌍 World Tour (completed)
 | # | Date | Route | World | Type | Distance | Elevation |
 |---|------|-------|-------|------|----------|-----------|
 | 1 | 2026-02-14 Sat | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | London | Hilly | 41 km | 515 m |
@@ -120,7 +120,7 @@
 
 > ⚠️ **Resulting in progress…** Discord will announce once ready.
 
-### Grand Tour Triquetra (upcoming)
+### 🔺 Grand Tour Triquetra (upcoming)
 | # | Date | Route | World | Type | Distance | Elevation |
 |---|------|-------|-------|------|----------|-----------|
 | 1 | 2026-04-25 Sat | <a href="https://zwiftinsider.com/route/spinfinity-ultra" target="_blank">Spinfinity Ultra</a> | New York | Flat | 47 km | 330 m |
@@ -145,7 +145,7 @@
 | 20 | 2026-05-16 Sat | Room 101 | Watopia | Mountain | 101 km | 2300 m |
 | 21 | 2026-05-17 Sun | <a href="https://zwiftinsider.com/route/champs-elysees" target="_blank">Champs Elysees</a> | Paris | Flat | 42 km | 270 m |
 
-#### Stage Times
+#### ⏰ Stage Times
 | Type | UTC | EET (UTC+2) | EST (UTC−5) |
 |------|-----|-------------|-------------|
 | Core | 06:00 | 08:00 | 01:00 |
@@ -162,7 +162,7 @@
 
 > Weekend: 19:30 replaces 18:45. ITT times are added to core (18:45 → 18:30).
 
-### FRR Rider Classification
+### 🌶️ FRR Rider Classification
 | Class | Code | W/kg | League |
 |-------|------|------|--------|
 | CAPSAICIN | CAP | 4.7+ | Alpha |
