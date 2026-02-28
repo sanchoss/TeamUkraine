@@ -74,6 +74,20 @@
 
 > Вихідні: 19:30 замінює 18:45. ITT часи додаються до основних (18:45 → 18:30).
 
+### Класифікація гонщиків FRR
+| Клас | Код | Вт/кг | Ліга |
+|-------|------|-------|------|
+| CAPSAICIN | CAP | 4.7+ | Alpha |
+| DRAGON | DRA | 4.4–4.7 | Alpha |
+| REAPER | CRP | 4.1–4.4 | Beta |
+| GHOST | GHT | 3.8–4.1 | Beta |
+| HABANERO | HAB | 3.4–3.8 | Gamma |
+| BONNET | BON | 3.1–3.4 | Gamma |
+| CAYENNE | CAY | 2.75–3.1 | Delta |
+| JALAPENO | JLP | 2.4–2.75 | Delta |
+| PEPPERONCINI | PEP | < 2.4 | Epsilon |
+| BELL | BEL | < 500 CS | Epsilon |
+
 ---
 ## 🇬🇧 English
 
@@ -147,3 +161,17 @@
 | | 01:30 | 03:30 | 20:30 |
 
 > Weekend: 19:30 replaces 18:45. ITT times are added to core (18:45 → 18:30).
+
+### FRR Rider Classification
+| Class | Code | W/kg | League |
+|-------|------|------|--------|
+| CAPSAICIN | CAP | 4.7+ | Alpha |
+| DRAGON | DRA | 4.4–4.7 | Alpha |
+| REAPER | CRP | 4.1–4.4 | Beta |
+| GHOST | GHT | 3.8–4.1 | Beta |
+| HABANERO | HAB | 3.4–3.8 | Gamma |
+| BONNET | BON | 3.1–3.4 | Gamma |
+| CAYENNE | CAY | 2.75–3.1 | Delta |
+| JALAPENO | JLP | 2.4–2.75 | Delta |
+| PEPPERONCINI | PEP | < 2.4 | Epsilon |
+| BELL | BEL | < 500 CS | Epsilon |
