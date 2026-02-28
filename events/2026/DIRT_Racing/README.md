@@ -1,0 +1,57 @@
+# DIRT Racing Series Season 11 (2026) — Team Ukraine
+
+---
+## 🇺🇦 Українська
+
+### Інформація про серію
+| Поле | Значення |
+|------|----------|
+| **Серія** | DIRT Racing Series |
+| **Сезон** | 11 |
+| **Сайт** | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
+| **Discord** | [DIRT Discord](https://discord.com/channels/941066968461627393/1136179317378916473) |
+| **Період** | Березень 2026 (5 тижнів, 6 етапів) |
+| **Формат** | Points / TTR / iTT |
+
+### Етапи
+| # | Дата | Маршрут | Світ | Формат | Класифікація | Дистанція | Набір | Статус |
+|---|------|---------|------|--------|-------------|-----------|-------|--------|
+| 1 | 2026-03-03 | Downtown Titans | Watopia | Points | Hilly | 24.6 км | 292 м | 🔜 |
+| 2 | 2026-03-10 | The Greenway | New York | TTR | Rolling | 31.9 км | 220 м | 🔜 |
+| 3 | 2026-03-17 | Three Musketeers | France | Points | Flat | 35.2 км | 193 м | 🔜 |
+| 4 | 2026-03-24 | Achterbahn | Innsbruck | Points | Mountainous | 23.1 км | 550 м | 🔜 |
+| 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | Flat | 12.9 км | 88 м | 🔜 |
+| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | Rolling | 15.0 км | 130 м | 🔜 |
+
+### Примітки
+- Етапи 5 та 6 проходять в один день (31 березня)
+- Формати: Points (очкові спринти/KOM), TTR (командна гонка на час), iTT (індивідуальна розділка)
+- Детальна інформація по етапах: [dirtracingseries.com/events](https://dirtracingseries.com/events)
+
+---
+## 🇬🇧 English
+
+### Series Info
+| Field | Value |
+|-------|-------|
+| **Series** | DIRT Racing Series |
+| **Season** | 11 |
+| **Website** | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
+| **Discord** | [DIRT Discord](https://discord.com/channels/941066968461627393/1136179317378916473) |
+| **Period** | March 2026 (5 weeks, 6 stages) |
+| **Format** | Points / TTR / iTT |
+
+### Stages
+| # | Date | Route | World | Format | Classification | Distance | Elevation | Status |
+|---|------|-------|-------|--------|---------------|----------|-----------|--------|
+| 1 | 2026-03-03 | Downtown Titans | Watopia | Points | Hilly | 24.6 km | 292 m | 🔜 |
+| 2 | 2026-03-10 | The Greenway | New York | TTR | Rolling | 31.9 km | 220 m | 🔜 |
+| 3 | 2026-03-17 | Three Musketeers | France | Points | Flat | 35.2 km | 193 m | 🔜 |
+| 4 | 2026-03-24 | Achterbahn | Innsbruck | Points | Mountainous | 23.1 km | 550 m | 🔜 |
+| 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | Flat | 12.9 km | 88 m | 🔜 |
+| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | Rolling | 15.0 km | 130 m | 🔜 |
+
+### Notes
+- Stages 5 and 6 are both on the same day (March 31)
+- Formats: Points (sprint/KOM points), TTR (team timed race), iTT (individual TT)
+- Full stage details: [dirtracingseries.com/events](https://dirtracingseries.com/events)
