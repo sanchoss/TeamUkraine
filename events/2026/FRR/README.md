@@ -30,7 +30,7 @@
 | 7 | 2026-02-21 Сб | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 км | 990 м |
 | 8 | 2026-02-22 Нд | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 км | 1710 м |
 
-> ⚠️ **Результати обробляються…** Discord оголосить, коли буде готово.
+> 📊 **Результати:** див. [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
 
 ### 🔺 Grand Tour Triquetra (майбутній)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
@@ -118,7 +118,7 @@
 | 7 | 2026-02-21 Sat | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 km | 990 m |
 | 8 | 2026-02-22 Sun | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 km | 1710 m |
 
-> ⚠️ **Resulting in progress…** Discord will announce once ready.
+> 📊 **Results:** see [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
 
 ### 🔺 Grand Tour Triquetra (upcoming)
 | # | Date | Route | World | Type | Distance | Elevation |
