@@ -1,7 +1,7 @@
-# 🔥 FRR World Tour — 🇺🇦 Team Ukraine — Командні результати / Team Standings
+# 🔥 FRR World Tour — [UA] Team Ukraine — Командні результати / Team Standings
 
 ---
-## 🇺🇦 Українська
+## [UA] Українська
 
 > 🏁 **Серія:** FRR World Tour (FWT.5) — Сезон 5
 > 📆 **Дати:** 14–22 лютого 2026 (8 етапів)
@@ -10,20 +10,20 @@
 
 ### 📅 Етапи
 
-| # | Дата | Маршрут | 🌍 Світ | ⚙️ Тип | 📏 Дист. | ⛰️ Набір | TUKR 🇺🇦 Мікс | 🚹 | 🚺 |
+| # | Дата | Маршрут | 🌍 Світ | ⚙️ Тип | 📏 Дист. | ⛰️ Набір | TUKR [UA] Мікс | 🚹 | 🚺 |
 |---|------|---------|------|-----|-----------|-------|------|------|------|
-| 1 | 2026-02-14 Сб | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | 🏴‍☠️ London | ⛰️ Hilly | 41 км | 515 м | 🥈 **#2** | 🥈 **#2** | **#6** |
+| 1 | 2026-02-14 Сб | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | [GB] London | ⛰️ Hilly | 41 км | 515 м | 🥈 **#2** | 🥈 **#2** | **#6** |
 | 2 | 2026-02-15 Нд | <a href="https://zwiftinsider.com/route/peak-performance" target="_blank">Peak Performance</a> | 🌊 Watopia (QS) | 🏔️ Mountain | 47 км | 730 м | ? | 🥈 **#2** | ? |
-| 3 | 2026-02-16 Пн | <a href="https://zwiftinsider.com/route/time-trial-lap" target="_blank">Bologna</a> | 🇮🇹 Bologna | ⏱️ ITT | 24.7 км | 512 м | ? | ? | ? |
-| 4 | 2026-02-17 Вт | <a href="https://zwiftinsider.com/route/neokyo-all-nighter" target="_blank">NEOKYO - All Nighter</a> | 🇯🇵 Makuri Islands | 🌀 Rolling | 37 км | 200 м | ? | ? | ? |
-| 5 | 2026-02-19 Чт | <a href="https://zwiftinsider.com/route/city-and-the-sgurr" target="_blank">City and the Sgurr</a> | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland | ⛰️ Hilly | 33 км | 560 м | ? | ? | ? |
+| 3 | 2026-02-16 Пн | <a href="https://zwiftinsider.com/route/time-trial-lap" target="_blank">Bologna</a> | [IT] Bologna | ⏱️ ITT | 24.7 км | 512 м | ? | ? | ? |
+| 4 | 2026-02-17 Вт | <a href="https://zwiftinsider.com/route/neokyo-all-nighter" target="_blank">NEOKYO - All Nighter</a> | [JP] Makuri Islands | 🌀 Rolling | 37 км | 200 м | ? | ? | ? |
+| 5 | 2026-02-19 Чт | <a href="https://zwiftinsider.com/route/city-and-the-sgurr" target="_blank">City and the Sgurr</a> | [SCO] Scotland | ⛰️ Hilly | 33 км | 560 м | ? | ? | ? |
 | 6 | 2026-02-20 Пт | <a href="https://zwiftinsider.com/route/three-little-sisters" target="_blank">3 Little Sisters</a> | 🌊 Watopia | ⏱️ ITT | 30 км | 420 м | ? | ? | ? |
-| 7 | 2026-02-21 Сб | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | 🇦🇹 Innsbruck | 🏔️ Mountain | 48 км | 990 м | ? | ? | ? |
+| 7 | 2026-02-21 Сб | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | [AT] Innsbruck | 🏔️ Mountain | 48 км | 990 м | ? | ? | ? |
 | 8 | 2026-02-22 Нд | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | 🌊 Watopia (QS) | 🏔️ Mountain | 47 км | 1710 м | ? | ? | ? |
 
 > ℹ️ `?` = дані недоступні (FRR використовує JS-фільтрацію, яка не парситься статично)
 
-### 🇺🇦 Team Ukraine (TUKR) — 📊 Зведення
+### [UA] Team Ukraine (TUKR) — 📊 Зведення
 
 | Категорія | 🏆 Позиція | 💯 Очки гонщиків | 🎯 Очки ліги |
 |-----------|---------|---------------|-----------|
@@ -39,7 +39,7 @@
 | 🥈 | **KLUB** | 166,270 | 1,572 |
 | 🥉 | **REVOTR** | 157,995 | 1,540 |
 | 4 | **COALITION** | 154,717 | 1,530 |
-| 5 | 🇺🇦 **TUKR** | 151,389 | 1,527 |
+| 5 | [UA] **TUKR** | 151,389 | 1,527 |
 | 6 | **PHOENIX** | 138,464 | 1,526 |
 | 7 | **ART** | 149,588 | 1,519 |
 | 8 | **CRYO-GEN** | 138,231 | 1,503 |
@@ -76,7 +76,7 @@
 
 | 🏅 | Команда | 💯 Очки гонщиків | 🎯 Очки ліги |
 |---|---------|---------------|-----------|
-| 🥇 | 🇺🇦 **TUKR** | 112,774 | 1,579 |
+| 🥇 | [UA] **TUKR** | 112,774 | 1,579 |
 | 🥈 | **MTBTR** | 112,673 | 1,577 |
 | 🥉 | **DIRT** | 111,178 | 1,543 |
 | 🥉 | **KLUB** | 110,927 | 1,543 |
@@ -138,7 +138,7 @@
 | 8 | **BMTR** | 54,108 | 1,496 |
 | 9 | **CRYO-GEN** | 53,371 | 1,491 |
 | 10 | **COALITION** | 53,374 | 1,482 |
-| 11 | 🇺🇦 **TUKR** | 53,100 | 1,479 |
+| 11 | [UA] **TUKR** | 53,100 | 1,479 |
 | 12 | **WATTFAB** | 52,735 | 1,475 |
 | 13 | **PINKC** | 52,408 | 1,454 |
 | 14 | **eSRT** | 51,827 | 1,453 |
@@ -155,7 +155,7 @@
 | 25 | **WLBB** | 48,572 | 1,367 |
 
 ---
-## 🇬🇧 English
+## [GB] English
 
 > 🏁 **Series:** FRR World Tour (FWT.5) — Season 5
 > 📆 **Dates:** February 14–22, 2026 (8 stages)
@@ -164,20 +164,20 @@
 
 ### 📅 Stages
 
-| # | Date | Route | 🌍 World | ⚙️ Type | 📏 Dist. | ⛰️ Elev. | TUKR 🇺🇦 Mixed | 🚹 | 🚺 |
+| # | Date | Route | 🌍 World | ⚙️ Type | 📏 Dist. | ⛰️ Elev. | TUKR [UA] Mixed | 🚹 | 🚺 |
 |---|------|-------|-------|------|----------|-----------|------|------|------|
-| 1 | 2026-02-14 Sat | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | 🏴‍☠️ London | ⛰️ Hilly | 41 km | 515 m | 🥈 **#2** | 🥈 **#2** | **#6** |
+| 1 | 2026-02-14 Sat | <a href="https://zwiftinsider.com/route/london-8" target="_blank">London 8</a> | [GB] London | ⛰️ Hilly | 41 km | 515 m | 🥈 **#2** | 🥈 **#2** | **#6** |
 | 2 | 2026-02-15 Sun | <a href="https://zwiftinsider.com/route/peak-performance" target="_blank">Peak Performance</a> | 🌊 Watopia (QS) | 🏔️ Mountain | 47 km | 730 m | ? | 🥈 **#2** | ? |
-| 3 | 2026-02-16 Mon | <a href="https://zwiftinsider.com/route/time-trial-lap" target="_blank">Bologna</a> | 🇮🇹 Bologna | ⏱️ ITT | 24.7 km | 512 m | ? | ? | ? |
-| 4 | 2026-02-17 Tue | <a href="https://zwiftinsider.com/route/neokyo-all-nighter" target="_blank">NEOKYO - All Nighter</a> | 🇯🇵 Makuri Islands | 🌀 Rolling | 37 km | 200 m | ? | ? | ? |
-| 5 | 2026-02-19 Thu | <a href="https://zwiftinsider.com/route/city-and-the-sgurr" target="_blank">City and the Sgurr</a> | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland | ⛰️ Hilly | 33 km | 560 m | ? | ? | ? |
+| 3 | 2026-02-16 Mon | <a href="https://zwiftinsider.com/route/time-trial-lap" target="_blank">Bologna</a> | [IT] Bologna | ⏱️ ITT | 24.7 km | 512 m | ? | ? | ? |
+| 4 | 2026-02-17 Tue | <a href="https://zwiftinsider.com/route/neokyo-all-nighter" target="_blank">NEOKYO - All Nighter</a> | [JP] Makuri Islands | 🌀 Rolling | 37 km | 200 m | ? | ? | ? |
+| 5 | 2026-02-19 Thu | <a href="https://zwiftinsider.com/route/city-and-the-sgurr" target="_blank">City and the Sgurr</a> | [SCO] Scotland | ⛰️ Hilly | 33 km | 560 m | ? | ? | ? |
 | 6 | 2026-02-20 Fri | <a href="https://zwiftinsider.com/route/three-little-sisters" target="_blank">3 Little Sisters</a> | 🌊 Watopia | ⏱️ ITT | 30 km | 420 m | ? | ? | ? |
-| 7 | 2026-02-21 Sat | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | 🇦🇹 Innsbruck | 🏔️ Mountain | 48 km | 990 m | ? | ? | ? |
+| 7 | 2026-02-21 Sat | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | [AT] Innsbruck | 🏔️ Mountain | 48 km | 990 m | ? | ? | ? |
 | 8 | 2026-02-22 Sun | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | 🌊 Watopia (QS) | 🏔️ Mountain | 47 km | 1710 m | ? | ? | ? |
 
 > ℹ️ `?` = data unavailable (FRR uses JS filtering, not parseable statically)
 
-### 🇺🇦 Team Ukraine (TUKR) — 📊 Summary
+### [UA] Team Ukraine (TUKR) — 📊 Summary
 
 | Category | 🏆 Position | 💯 Rider Pts | 🎯 League Pts |
 |----------|----------|-----------|------------|
@@ -193,7 +193,7 @@
 | 🥈 | **KLUB** | 166,270 | 1,572 |
 | 🥉 | **REVOTR** | 157,995 | 1,540 |
 | 4 | **COALITION** | 154,717 | 1,530 |
-| 5 | 🇺🇦 **TUKR** | 151,389 | 1,527 |
+| 5 | [UA] **TUKR** | 151,389 | 1,527 |
 | 6 | **PHOENIX** | 138,464 | 1,526 |
 | 7 | **ART** | 149,588 | 1,519 |
 | 8 | **CRYO-GEN** | 138,231 | 1,503 |
@@ -230,7 +230,7 @@
 
 | 🏅 | Team | 💯 Rider Pts | 🎯 League Pts |
 |---|------|-----------|------------|
-| 🥇 | 🇺🇦 **TUKR** | 112,774 | 1,579 |
+| 🥇 | [UA] **TUKR** | 112,774 | 1,579 |
 | 🥈 | **MTBTR** | 112,673 | 1,577 |
 | 🥉 | **DIRT** | 111,178 | 1,543 |
 | 🥉 | **KLUB** | 110,927 | 1,543 |
@@ -292,7 +292,7 @@
 | 8 | **BMTR** | 54,108 | 1,496 |
 | 9 | **CRYO-GEN** | 53,371 | 1,491 |
 | 10 | **COALITION** | 53,374 | 1,482 |
-| 11 | 🇺🇦 **TUKR** | 53,100 | 1,479 |
+| 11 | [UA] **TUKR** | 53,100 | 1,479 |
 | 12 | **WATTFAB** | 52,735 | 1,475 |
 | 13 | **PINKC** | 52,408 | 1,454 |
 | 14 | **eSRT** | 51,827 | 1,453 |
