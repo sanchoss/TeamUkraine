@@ -18,6 +18,28 @@
 | World Tour | 14–22 лютого | 8 | ✅ Завершено |
 | Grand Tour Triquetra | 25 квітня – 17 травня | 21 | 🔜 Майбутній |
 
+### 📊 Командні результати TUKR 💙💛
+
+#### 🌊 Tour Watopia (3–11 січня)
+
+| Категорія | 🏆 Позиція | 💯 Очки гонщиків | 🎯 Очки ліги |
+|-----------|---------|---------------|-----------|
+| 🔀 Мікс | ❓ | — | — |
+| 🚹 Чоловіки | ❓ | — | — |
+| 🚺 Жінки | ❓ | — | — |
+
+> ⏳ Результати Tour Watopia ще не опубліковані на сайті FRR. Очікуємо оголошення в [FRR Discord](https://discord.com/invite/nQNWHQK6PS).
+
+#### 🌍 World Tour (14–22 лютого)
+
+| Категорія | 🏆 Позиція | 💯 Очки гонщиків | 🎯 Очки ліги |
+|-----------|---------|---------------|-----------|
+| 🔀 Мікс Дів 1 | **#5** / 16 | 151,389 | 1,527 |
+| 🚹 Чоловіки Дів 1 | 🥇 **#1** / 17 | 112,774 | 1,579 |
+| 🚺 Жінки Дів 1 | **#11** / 25 | 53,100 | 1,479 |
+
+> 📊 Повні результати: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
+
 ### 🌍 World Tour (завершено)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
 |---|------|---------|------|-----|-----------|-------|
@@ -30,7 +52,7 @@
 | 7 | 2026-02-21 Сб | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 км | 990 м |
 | 8 | 2026-02-22 Нд | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 км | 1710 м |
 
-> 📊 **Результати:** див. [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
+> 📊 **Результати:** див. таблиці вище та [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
 
 ### 🔺 Grand Tour Triquetra (майбутній)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
@@ -106,6 +128,28 @@
 | World Tour | Feb 14–22 | 8 | ✅ Completed |
 | Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 Upcoming |
 
+### 📊 TUKR Team Results 💙💛
+
+#### 🌊 Tour Watopia (Jan 3–11)
+
+| Category | 🏆 Position | 💯 Rider Pts | 🎯 League Pts |
+|----------|---------|-----------|------------|
+| 🔀 Mixed | ❓ | — | — |
+| 🚹 Men | ❓ | — | — |
+| 🚺 Women | ❓ | — | — |
+
+> ⏳ Tour Watopia results not yet published on the FRR website. Awaiting announcement on [FRR Discord](https://discord.com/invite/nQNWHQK6PS).
+
+#### 🌍 World Tour (Feb 14–22)
+
+| Category | 🏆 Position | 💯 Rider Pts | 🎯 League Pts |
+|----------|---------|-----------|------------|
+| 🔀 Mixed Div 1 | **#5** / 16 | 151,389 | 1,527 |
+| 🚹 Men Div 1 | 🥇 **#1** / 17 | 112,774 | 1,579 |
+| 🚺 Women Div 1 | **#11** / 25 | 53,100 | 1,479 |
+
+> 📊 Full results: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
+
 ### 🌍 World Tour (completed)
 | # | Date | Route | World | Type | Distance | Elevation |
 |---|------|-------|-------|------|----------|-----------|
@@ -118,7 +162,7 @@
 | 7 | 2026-02-21 Sat | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 km | 990 m |
 | 8 | 2026-02-22 Sun | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 km | 1710 m |
 
-> 📊 **Results:** see [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
+> 📊 **Results:** see tables above and [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
 
 ### 🔺 Grand Tour Triquetra (upcoming)
 | # | Date | Route | World | Type | Distance | Elevation |

@@ -32,6 +32,13 @@
 | World Tour | 14–22 лютого | 8 | ✅ |
 | Grand Tour Triquetra | 25 квітня – 17 травня | 21 | 🔜 |
 
+**💙💛 TUKR командні результати:**
+
+| Серія | 🔀 Мікс | 🚹 Чоловіки | 🚺 Жінки |
+|-------|------|-----------|------|
+| Tour Watopia | ❓ | ❓ | ❓ |
+| World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
+
 #### DIRT Racing Series — Season 11
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір |
 |---|------|---------|------|--------|-----------|-------|
@@ -51,16 +58,16 @@
 ### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
-| Всього подій | 0 |
-| Найкращий фініш | |
+| Всього подій | 16 (завершено) |
+| Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
 | Активних гонщиків | 0 |
 | Нових учасників | 0 |
 
 ### 📅 Щомісячна активність
 | Місяць | Подій | Високі очки |
 |--------|-------|-------------|
-| Січ | | FRR Tour Watopia (8 етапів) |
-| Лют | | FRR World Tour (8 етапів) |
+| Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
+| Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
 | Бер | | DIRT Racing S11 (6 етапів), WTRL TTT |
 | Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), WTRL TTT |
@@ -104,6 +111,13 @@
 | World Tour | Feb 14–22 | 8 | ✅ |
 | Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 |
 
+**💙💛 TUKR Team Results:**
+
+| Series | 🔀 Mixed | 🚹 Men | 🚺 Women |
+|--------|-------|-----|-------|
+| Tour Watopia | ❓ | ❓ | ❓ |
+| World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
+
 #### 💨 DIRT Racing Series — Season 11
 | # | Date | Route | World | Format | Distance | Elevation |
 |---|------|-------|-------|--------|----------|-----------|
@@ -123,16 +137,16 @@
 ### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
-| Total events | 0 |
-| Best team finish | |
+| Total events | 16 (completed) |
+| Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
 | Active riders | 0 |
 | New members joined | 0 |
 
 ### 📅 Monthly Activity
 | Month | Events | Highlights |
 |-------|--------|------------|
-| Jan | | FRR Tour Watopia (8 stages) |
-| Feb | | FRR World Tour (8 stages) |
+| Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
+| Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
 | Mar | | DIRT Racing S11 (6 stages), WTRL TTT |
 | Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), WTRL TTT |
