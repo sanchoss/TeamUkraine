@@ -17,11 +17,11 @@
 | # | Дата | Маршрут | Світ | Формат | Класифікація | Дистанція | Набір | Статус |
 |---|------|---------|------|--------|-------------|-----------|-------|--------|
 | 1 | 2026-03-03 | <a href="https://zwiftinsider.com/route/downtown-titans" target="_blank">Downtown Titans</a> | Watopia | Points | Hilly | 24.6 км | 292 м | 🔜 |
-| 2 | 2026-03-10 | <a href="https://zwiftinsider.com/route/the-greenway" target="_blank">The Greenway</a> | New York | TTR | Rolling | 31.9 км | 220 м | 🔜 |
+| 2 | 2026-03-10 | <a href="https://zwiftinsider.com/route/the-greenway" target="_blank">The Greenway</a> | New York | TTR | Rolling | 31.4 км | 220 м | 🔜 |
 | 3 | 2026-03-17 | <a href="https://zwiftinsider.com/route/three-musketeers" target="_blank">Three Musketeers</a> | France | Points | Flat | 35.2 км | 193 м | 🔜 |
 | 4 | 2026-03-24 | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Points | Mountainous | 23.1 км | 550 м | 🔜 |
 | 5 | 2026-03-31 | <a href="https://zwiftinsider.com/route/two-village-loop" target="_blank">Two Village Loop</a> | Makuri Islands | iTT | Flat | 12.9 км | 88 м | 🔜 |
-| 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.0 км | 130 м | 🔜 |
+| 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.2 км | 130 м | 🔜 |
 
 ### 📌 Примітки
 - Етапи 5 та 6 проходять в один день (31 березня)
@@ -55,11 +55,11 @@
 | # | Date | Route | World | Format | Classification | Distance | Elevation | Status |
 |---|------|-------|-------|--------|---------------|----------|-----------|--------|
 | 1 | 2026-03-03 | <a href="https://zwiftinsider.com/route/downtown-titans" target="_blank">Downtown Titans</a> | Watopia | Points | Hilly | 24.6 km | 292 m | 🔜 |
-| 2 | 2026-03-10 | <a href="https://zwiftinsider.com/route/the-greenway" target="_blank">The Greenway</a> | New York | TTR | Rolling | 31.9 km | 220 m | 🔜 |
+| 2 | 2026-03-10 | <a href="https://zwiftinsider.com/route/the-greenway" target="_blank">The Greenway</a> | New York | TTR | Rolling | 31.4 km | 220 m | 🔜 |
 | 3 | 2026-03-17 | <a href="https://zwiftinsider.com/route/three-musketeers" target="_blank">Three Musketeers</a> | France | Points | Flat | 35.2 km | 193 m | 🔜 |
 | 4 | 2026-03-24 | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Points | Mountainous | 23.1 km | 550 m | 🔜 |
 | 5 | 2026-03-31 | <a href="https://zwiftinsider.com/route/two-village-loop" target="_blank">Two Village Loop</a> | Makuri Islands | iTT | Flat | 12.9 km | 88 m | 🔜 |
-| 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.0 km | 130 m | 🔜 |
+| 6 | 2026-03-31 | <a href="https://zwiftinsider.com/route/scotland-smash" target="_blank">Scotland Smash</a> | Scotland | Points | Rolling | 15.2 km | 130 m | 🔜 |
 
 ### 📌 Notes
 - Stages 5 and 6 are both on the same day (March 31)
