@@ -9,18 +9,18 @@ Team Ukraine — велосипедна кіберспортивна коман�
 ### 🔗 Посилання команди
 | Ресурс | Посилання |
 |--------|------------|
-| YouTube | [Team Ukraine Esports](https://www.youtube.com/@teamukraineesports) |
-| ZwiftPower | [TUKR](https://zwiftpower.com/team.php?id=21813) |
-| Discord | [Team Ukraine](https://discord.com/channels/1075078363011633212/1476842027093065854) |
-| ZwiftRacing | [Team Ukraine](https://www.zwiftracing.app/clubs/21813) |
-| Strava клуб | [Team Ukraine](https://www.strava.com/clubs/1433702) |
+| ![](https://www.google.com/s2/favicons?domain=youtube.com&sz=16) YouTube | [Team Ukraine Esports](https://www.youtube.com/@teamukraineesports) |
+| ![](https://www.google.com/s2/favicons?domain=zwiftpower.com&sz=16) ZwiftPower | [TUKR](https://zwiftpower.com/team.php?id=21813) |
+| ![](https://www.google.com/s2/favicons?domain=discord.com&sz=16) Discord | [Team Ukraine](https://discord.com/channels/1075078363011633212/1476842027093065854) |
+| ![](https://www.google.com/s2/favicons?domain=zwiftracing.app&sz=16) ZwiftRacing | [Team Ukraine](https://www.zwiftracing.app/clubs/21813) |
+| ![](https://www.google.com/s2/favicons?domain=strava.com&sz=16) Strava клуб | [Team Ukraine](https://www.strava.com/clubs/1433702) |
 
 ### 🏁 Серії гонок
 | Серія | Посилання |
 |-------|------------|
-| Flamme Rouge Racing | [flammerougeracing.com/tourschedule](https://flammerougeracing.com/tourschedule) |
-| WTRL TTT | [wtrl.racing](https://wtrl.racing) |
-| DIRT Racing Series | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
+| ![](https://www.google.com/s2/favicons?domain=flammerougeracing.com&sz=16) Flamme Rouge Racing | [flammerougeracing.com/tourschedule](https://flammerougeracing.com/tourschedule) |
+| ![](https://www.google.com/s2/favicons?domain=wtrl.racing&sz=16) WTRL TTT | [wtrl.racing](https://wtrl.racing) |
+| ![](https://www.google.com/s2/favicons?domain=dirtracingseries.com&sz=16) DIRT Racing Series | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
 
 ### 📊 Категорії гонщиків
 | Категорія | Вт/кг | Опис |
@@ -73,18 +73,18 @@ Team Ukraine is a cycling e-racing team competing on [Zwift](https://www.zwift.c
 ### 🔗 Team Links
 | Resource | Link |
 |----------|------|
-| YouTube | [Team Ukraine Esports](https://www.youtube.com/@teamukraineesports) |
-| ZwiftPower | [TUKR](https://zwiftpower.com/team.php?id=21813) |
-| Discord | [Team Ukraine](https://discord.com/channels/1075078363011633212/1476842027093065854) |
-| ZwiftRacing | [Team Ukraine](https://www.zwiftracing.app/clubs/21813) |
-| Strava Club | [Team Ukraine](https://www.strava.com/clubs/1433702) |
+| ![](https://www.google.com/s2/favicons?domain=youtube.com&sz=16) YouTube | [Team Ukraine Esports](https://www.youtube.com/@teamukraineesports) |
+| ![](https://www.google.com/s2/favicons?domain=zwiftpower.com&sz=16) ZwiftPower | [TUKR](https://zwiftpower.com/team.php?id=21813) |
+| ![](https://www.google.com/s2/favicons?domain=discord.com&sz=16) Discord | [Team Ukraine](https://discord.com/channels/1075078363011633212/1476842027093065854) |
+| ![](https://www.google.com/s2/favicons?domain=zwiftracing.app&sz=16) ZwiftRacing | [Team Ukraine](https://www.zwiftracing.app/clubs/21813) |
+| ![](https://www.google.com/s2/favicons?domain=strava.com&sz=16) Strava Club | [Team Ukraine](https://www.strava.com/clubs/1433702) |
 
 ### 🏁 Race Series
 | Series | Link |
 |--------|------|
-| Flamme Rouge Racing | [flammerougeracing.com/tourschedule](https://flammerougeracing.com/tourschedule) |
-| WTRL TTT | [wtrl.racing](https://wtrl.racing) |
-| DIRT Racing Series | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
+| ![](https://www.google.com/s2/favicons?domain=flammerougeracing.com&sz=16) Flamme Rouge Racing | [flammerougeracing.com/tourschedule](https://flammerougeracing.com/tourschedule) |
+| ![](https://www.google.com/s2/favicons?domain=wtrl.racing&sz=16) WTRL TTT | [wtrl.racing](https://wtrl.racing) |
+| ![](https://www.google.com/s2/favicons?domain=dirtracingseries.com&sz=16) DIRT Racing Series | [dirtracingseries.com/events](https://dirtracingseries.com/events) |
 
 ### 📊 Rider Categories
 | Category | W/kg Range | Description |
