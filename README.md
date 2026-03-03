@@ -118,7 +118,6 @@ Team Ukraine is a cycling e-racing team competing on [Zwift](https://www.zwift.c
 | ![](https://www.google.com/s2/favicons?domain=virtuslo.cc&sz=16) VirtusLo League | [league.virtuslo.cc](https://league.virtuslo.cc/) | League results, team standings |
 | ![](https://www.google.com/s2/favicons?domain=whatsonzwift.com&sz=16) What's on Zwift | [whatsonzwift.com](https://whatsonzwift.com/) | Event schedule, routes |
 | ![](https://www.google.com/s2/favicons?domain=zwift.com&sz=16) Zwift | [zwift.com](https://www.zwift.com/) | Official Zwift website |
-| ![](https://www.google.com/s2/favicons?domain=docs.google.com&sz=16) Zwift Course Sheet | [Google Sheets](https://docs.google.com/spreadsheets/d/1P3_OGbW_i-e99qtm417_tyKg5aweabdQtesSzP1q4yI/edit) | Spreadsheet of all Zwift courses |
 | ![](https://www.google.com/s2/favicons?domain=zwiftworkout.com&sz=16) Zwift Workout Editor | [zwiftworkout.com](https://www.zwiftworkout.com/) | Build custom Zwift workouts |
 | ![](https://www.google.com/s2/favicons?domain=zwifterbikes.web.app&sz=16) ZwifterBikes | [zwifterbikes.web.app](https://zwifterbikes.web.app/) | Routes, frames, wheels |
 | ![](https://www.google.com/s2/favicons?domain=zwifthacks.com&sz=16) ZwiftHacks | [zwifthacks.com](https://zwifthacks.com/) | Tools, calculators, maps |
