@@ -45,16 +45,24 @@ Team Ukraine — велосипедна кіберспортивна коман�
 ### 🛠️ Корисні інструменти
 | Інструмент | Посилання | Опис |
 |------------|-----------|------|
-| ZwiftRacing.app | [zwiftracing.app](https://www.zwiftracing.app/) | Профілі гонщиків, клуби |
-| ZwiftPower | [zwiftpower.com](https://zwiftpower.com/) | Результати, рейтинги |
-| ZwifterBikes | [zwifterbikes.web.app](https://zwifterbikes.web.app/) | Маршрути, рами, колеса |
-| ZwiftInsider | [zwiftinsider.com](https://zwiftinsider.com/) | Новини, огляди маршрутів, поради |
-| Intervals.icu | [intervals.icu](https://intervals.icu/) | Тренування, аналітика |
-| VirtusLo League | [league.virtuslo.cc](https://league.virtuslo.cc/) | Результати ліг, командні таблиці |
-| ZwiftHacks | [zwifthacks.com](https://zwifthacks.com/) | Інструменти, калькулятори, карти |
-| ZwiftHub | [zwifthub.com](https://zwifthub.com/) | Маршрути, сегменти, планування |
-| What's on Zwift | [whatsonzwift.com](https://whatsonzwift.com/) | Розклад подій, маршрути |
-| ZwiftMap | [zwiftmap.com](https://zwiftmap.com/) | Інтерактивні карти маршрутів |
+| ![](https://www.google.com/s2/favicons?domain=activityfix.com&sz=16) ActivityFix | [activityfix.com](https://www.activityfix.com/) | Виправлення / редагування активностей |
+| ![](https://www.google.com/s2/favicons?domain=dynamic.watch&sz=16) dynamicWatch | [dynamic.watch](https://dynamic.watch/) | Live-трекінг потужності та пульсу |
+| ![](https://www.google.com/s2/favicons?domain=fitfiletools.com&sz=16) FIT File Tools | [fitfiletools.com](https://www.fitfiletools.com/) | Редагування / обрізка FIT файлів |
+| ![](https://www.google.com/s2/favicons?domain=intervals.icu&sz=16) Intervals.icu | [intervals.icu](https://intervals.icu/) | Тренування, аналітика |
+| ![](https://www.google.com/s2/favicons?domain=strava.com&sz=16) Strava Heatmap | [labs.strava.com/heatmap](https://labs.strava.com/heatmap/) | Теплова карта активностей |
+| ![](https://www.google.com/s2/favicons?domain=veloviewer.com&sz=16) VeloViewer | [veloviewer.com](https://veloviewer.com/) | Розширена аналітика Strava |
+| ![](https://www.google.com/s2/favicons?domain=virtuslo.cc&sz=16) VirtusLo League | [league.virtuslo.cc](https://league.virtuslo.cc/) | Результати ліг, командні таблиці |
+| ![](https://www.google.com/s2/favicons?domain=whatsonzwift.com&sz=16) What's on Zwift | [whatsonzwift.com](https://whatsonzwift.com/) | Розклад подій, маршрути |
+| ![](https://www.google.com/s2/favicons?domain=zwift.com&sz=16) Zwift | [zwift.com](https://www.zwift.com/) | Офіційний сайт Zwift |
+| ![](https://www.google.com/s2/favicons?domain=docs.google.com&sz=16) Zwift Course Sheet | [Google Sheets](https://docs.google.com/spreadsheets/d/1P3_OGbW_i-e99qtm417_tyKg5aweabdQtesSzP1q4yI/edit) | Таблиця всіх маршрутів Zwift |
+| ![](https://www.google.com/s2/favicons?domain=zwiftworkout.com&sz=16) Zwift Workout Editor | [zwiftworkout.com](https://www.zwiftworkout.com/) | Створення тренувань для Zwift |
+| ![](https://www.google.com/s2/favicons?domain=zwifterbikes.web.app&sz=16) ZwifterBikes | [zwifterbikes.web.app](https://zwifterbikes.web.app/) | Маршрути, рами, колеса |
+| ![](https://www.google.com/s2/favicons?domain=zwifthacks.com&sz=16) ZwiftHacks | [zwifthacks.com](https://zwifthacks.com/) | Інструменти, калькулятори, карти |
+| ![](https://www.google.com/s2/favicons?domain=zwifthub.com&sz=16) ZwiftHub | [zwifthub.com](https://zwifthub.com/) | Маршрути, сегменти, планування |
+| ![](https://www.google.com/s2/favicons?domain=zwiftinsider.com&sz=16) ZwiftInsider | [zwiftinsider.com](https://zwiftinsider.com/) | Новини, огляди маршрутів, поради |
+| ![](https://www.google.com/s2/favicons?domain=zwiftmap.com&sz=16) ZwiftMap | [zwiftmap.com](https://zwiftmap.com/) | Інтерактивні карти маршрутів |
+| ![](https://www.google.com/s2/favicons?domain=zwiftpower.com&sz=16) ZwiftPower | [zwiftpower.com](https://zwiftpower.com/) | Результати, рейтинги |
+| ![](https://www.google.com/s2/favicons?domain=zwiftracing.app&sz=16) ZwiftRacing.app | [zwiftracing.app](https://www.zwiftracing.app/) | Профілі гонщиків, клуби |
 
 ---
 ## 🇬🇧 English
@@ -101,13 +109,21 @@ Team Ukraine is a cycling e-racing team competing on [Zwift](https://www.zwift.c
 ### 🛠️ Useful Tools
 | Tool | Link | Description |
 |------|------|-------------|
-| ZwiftRacing.app | [zwiftracing.app](https://www.zwiftracing.app/) | Rider profiles, clubs |
-| ZwiftPower | [zwiftpower.com](https://zwiftpower.com/) | Results, rankings |
-| ZwifterBikes | [zwifterbikes.web.app](https://zwifterbikes.web.app/) | Routes, frames, wheels |
-| ZwiftInsider | [zwiftinsider.com](https://zwiftinsider.com/) | News, route reviews, tips |
-| Intervals.icu | [intervals.icu](https://intervals.icu/) | Training, analytics |
-| VirtusLo League | [league.virtuslo.cc](https://league.virtuslo.cc/) | League results, team standings |
-| ZwiftHacks | [zwifthacks.com](https://zwifthacks.com/) | Tools, calculators, maps |
-| ZwiftHub | [zwifthub.com](https://zwifthub.com/) | Routes, segments, planning |
-| What's on Zwift | [whatsonzwift.com](https://whatsonzwift.com/) | Event schedule, routes |
-| ZwiftMap | [zwiftmap.com](https://zwiftmap.com/) | Interactive route maps |
+| ![](https://www.google.com/s2/favicons?domain=activityfix.com&sz=16) ActivityFix | [activityfix.com](https://www.activityfix.com/) | Fix / edit activity files |
+| ![](https://www.google.com/s2/favicons?domain=dynamic.watch&sz=16) dynamicWatch | [dynamic.watch](https://dynamic.watch/) | Live power & HR tracking |
+| ![](https://www.google.com/s2/favicons?domain=fitfiletools.com&sz=16) FIT File Tools | [fitfiletools.com](https://www.fitfiletools.com/) | Edit / trim FIT files |
+| ![](https://www.google.com/s2/favicons?domain=intervals.icu&sz=16) Intervals.icu | [intervals.icu](https://intervals.icu/) | Training, analytics |
+| ![](https://www.google.com/s2/favicons?domain=strava.com&sz=16) Strava Heatmap | [labs.strava.com/heatmap](https://labs.strava.com/heatmap/) | Activity heatmap |
+| ![](https://www.google.com/s2/favicons?domain=veloviewer.com&sz=16) VeloViewer | [veloviewer.com](https://veloviewer.com/) | Advanced Strava analytics |
+| ![](https://www.google.com/s2/favicons?domain=virtuslo.cc&sz=16) VirtusLo League | [league.virtuslo.cc](https://league.virtuslo.cc/) | League results, team standings |
+| ![](https://www.google.com/s2/favicons?domain=whatsonzwift.com&sz=16) What's on Zwift | [whatsonzwift.com](https://whatsonzwift.com/) | Event schedule, routes |
+| ![](https://www.google.com/s2/favicons?domain=zwift.com&sz=16) Zwift | [zwift.com](https://www.zwift.com/) | Official Zwift website |
+| ![](https://www.google.com/s2/favicons?domain=docs.google.com&sz=16) Zwift Course Sheet | [Google Sheets](https://docs.google.com/spreadsheets/d/1P3_OGbW_i-e99qtm417_tyKg5aweabdQtesSzP1q4yI/edit) | Spreadsheet of all Zwift courses |
+| ![](https://www.google.com/s2/favicons?domain=zwiftworkout.com&sz=16) Zwift Workout Editor | [zwiftworkout.com](https://www.zwiftworkout.com/) | Build custom Zwift workouts |
+| ![](https://www.google.com/s2/favicons?domain=zwifterbikes.web.app&sz=16) ZwifterBikes | [zwifterbikes.web.app](https://zwifterbikes.web.app/) | Routes, frames, wheels |
+| ![](https://www.google.com/s2/favicons?domain=zwifthacks.com&sz=16) ZwiftHacks | [zwifthacks.com](https://zwifthacks.com/) | Tools, calculators, maps |
+| ![](https://www.google.com/s2/favicons?domain=zwifthub.com&sz=16) ZwiftHub | [zwifthub.com](https://zwifthub.com/) | Routes, segments, planning |
+| ![](https://www.google.com/s2/favicons?domain=zwiftinsider.com&sz=16) ZwiftInsider | [zwiftinsider.com](https://zwiftinsider.com/) | News, route reviews, tips |
+| ![](https://www.google.com/s2/favicons?domain=zwiftmap.com&sz=16) ZwiftMap | [zwiftmap.com](https://zwiftmap.com/) | Interactive route maps |
+| ![](https://www.google.com/s2/favicons?domain=zwiftpower.com&sz=16) ZwiftPower | [zwiftpower.com](https://zwiftpower.com/) | Results, rankings |
+| ![](https://www.google.com/s2/favicons?domain=zwiftracing.app&sz=16) ZwiftRacing.app | [zwiftracing.app](https://www.zwiftracing.app/) | Rider profiles, clubs |
