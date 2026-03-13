@@ -20,7 +20,7 @@
 #### ⏱️ WTRL Командна гонка на час (TTT)
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
 |---|------|---------|-----|-----------|----------|
-| 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | 🔜 |
+| 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | ✅ |
 | — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
@@ -58,7 +58,7 @@
 ### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
-| Всього подій | 16 (завершено) |
+| Всього подій | 19 (завершено) |
 | Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
 | Активних гонщиків | 0 |
 | Нових учасників | 0 |
@@ -68,7 +68,7 @@
 |--------|-------|-------------|
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
-| Бер | | DIRT Racing S11 (6 етапів), WTRL TTT |
+| Бер | 3 | DIRT Racing S11 (етапи 1–2 ✅), WTRL TTT #359 ✅ |
 | Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), WTRL TTT |
 | Чер | | WTRL TTT |
@@ -99,7 +99,7 @@
 #### ⏱️ WTRL Team Time Trial (TTT)
 | # | Date | Route | Type | Distance | Notes |
 |---|------|-------|------|----------|-------|
-| 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | 🔜 |
+| 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | ✅ |
 | — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
@@ -137,7 +137,7 @@
 ### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
-| Total events | 16 (completed) |
+| Total events | 19 (completed) |
 | Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
 | Active riders | 0 |
 | New members joined | 0 |
@@ -147,7 +147,7 @@
 |-------|--------|------------|
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
-| Mar | | DIRT Racing S11 (6 stages), WTRL TTT |
+| Mar | 3 | DIRT Racing S11 (stages 1–2 ✅), WTRL TTT #359 ✅ |
 | Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), WTRL TTT |
 | Jun | | WTRL TTT |
