@@ -21,6 +21,7 @@
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
 |---|------|---------|-----|-----------|----------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | ✅ |
+| 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
 | — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
@@ -43,11 +44,11 @@
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір |
 |---|------|---------|------|--------|-----------|-------|
 | 1 | 2026-03-03 | Downtown Titans | Watopia | Points | 24.6 км | 292 м |
-| 2 | 2026-03-10 | The Greenway | New York | TTR | 31.9 км | 220 м |
+| 2 | 2026-03-10 | The Greenway | New York | TTR | 31.4 км | 220 м |
 | 3 | 2026-03-17 | Three Musketeers | France | Points | 35.2 км | 193 м |
 | 4 | 2026-03-24 | Achterbahn | Innsbruck | Points | 23.1 км | 550 м |
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 км | 88 м |
-| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.0 км | 130 м |
+| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.2 км | 130 м |
 
 #### 📋 Інші серії
 | Серія | Дати | Подій | Статус |
@@ -58,7 +59,7 @@
 ### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
-| Всього подій | 19 (завершено) |
+| Всього подій | 20 (завершено) |
 | Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
 | Активних гонщиків | 0 |
 | Нових учасників | 0 |
@@ -68,7 +69,7 @@
 |--------|-------|-------------|
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
-| Бер | 3 | DIRT Racing S11 (етапи 1–2 ✅), WTRL TTT #359 ✅ |
+| Бер | 4 | DIRT Racing S11 (етапи 1–2 ✅), WTRL TTT #359–360 ✅ |
 | Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), WTRL TTT |
 | Чер | | WTRL TTT |
@@ -100,6 +101,7 @@
 | # | Date | Route | Type | Distance | Notes |
 |---|------|-------|------|----------|-------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | ✅ |
+| 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
 | — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
 | — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
@@ -122,11 +124,11 @@
 | # | Date | Route | World | Format | Distance | Elevation |
 |---|------|-------|-------|--------|----------|-----------|
 | 1 | 2026-03-03 | Downtown Titans | Watopia | Points | 24.6 km | 292 m |
-| 2 | 2026-03-10 | The Greenway | New York | TTR | 31.9 km | 220 m |
+| 2 | 2026-03-10 | The Greenway | New York | TTR | 31.4 km | 220 m |
 | 3 | 2026-03-17 | Three Musketeers | France | Points | 35.2 km | 193 m |
 | 4 | 2026-03-24 | Achterbahn | Innsbruck | Points | 23.1 km | 550 m |
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 km | 88 m |
-| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.0 km | 130 m |
+| 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.2 km | 130 m |
 
 #### 📋 Other Series
 | Series | Dates | Events | Status |
@@ -137,7 +139,7 @@
 ### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
-| Total events | 19 (completed) |
+| Total events | 20 (completed) |
 | Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
 | Active riders | 0 |
 | New members joined | 0 |
@@ -147,7 +149,7 @@
 |-------|--------|------------|
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
-| Mar | 3 | DIRT Racing S11 (stages 1–2 ✅), WTRL TTT #359 ✅ |
+| Mar | 4 | DIRT Racing S11 (stages 1–2 ✅), WTRL TTT #359–360 ✅ |
 | Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), WTRL TTT |
 | Jun | | WTRL TTT |
