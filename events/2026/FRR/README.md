@@ -38,7 +38,7 @@
 | 🚹 Чоловіки Дів 1 | 🥇 **#1** / 17 | 112,774 | 1,579 |
 | 🚺 Жінки Дів 1 | **#11** / 25 | 53,100 | 1,479 |
 
-> 📊 Повні результати: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
+> 📊 Повні результати: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
 
 ### 🌍 World Tour (завершено)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
@@ -52,7 +52,7 @@
 | 7 | 2026-02-21 Сб | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 км | 990 м |
 | 8 | 2026-02-22 Нд | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 км | 1710 м |
 
-> 📊 **Результати:** див. таблиці вище та [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
+> 📊 **Результати:** див. таблиці вище та [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
 
 ### 🔺 Grand Tour Triquetra (майбутній)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
@@ -148,7 +148,7 @@
 | 🚹 Men Div 1 | 🥇 **#1** / 17 | 112,774 | 1,579 |
 | 🚺 Women Div 1 | **#11** / 25 | 53,100 | 1,479 |
 
-> 📊 Full results: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
+> 📊 Full results: [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md)
 
 ### 🌍 World Tour (completed)
 | # | Date | Route | World | Type | Distance | Elevation |
@@ -162,7 +162,7 @@
 | 7 | 2026-02-21 Sat | <a href="https://zwiftinsider.com/route/achterbahn" target="_blank">Achterbahn</a> | Innsbruck | Mountain | 48 km | 990 m |
 | 8 | 2026-02-22 Sun | <a href="https://zwiftinsider.com/route/quatch-quest" target="_blank">Quatch Quest</a> | Watopia (QS) | Mountain | 47 km | 1710 m |
 
-> 📊 **Results:** see tables above and [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](../../../results/2026/FRR/2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
+> 📊 **Results:** see tables above and [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
 
 ### 🔺 Grand Tour Triquetra (upcoming)
 | # | Date | Route | World | Type | Distance | Elevation |
