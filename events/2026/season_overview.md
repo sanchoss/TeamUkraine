@@ -59,7 +59,7 @@
 ### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
-| Всього подій | 20 (завершено) |
+| Всього подій | 22 (завершено) |
 | Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
 | Активних гонщиків | 0 |
 | Нових учасників | 0 |
@@ -69,7 +69,7 @@
 |--------|-------|-------------|
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
-| Бер | 4 | DIRT Racing S11 (етапи 1–2 ✅), WTRL TTT #359–360 ✅ |
+| Бер | 6 | DIRT Racing S11 (етапи 1–4 ✅), WTRL TTT #359–360 ✅ |
 | Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), WTRL TTT |
 | Чер | | WTRL TTT |
@@ -139,7 +139,7 @@
 ### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
-| Total events | 20 (completed) |
+| Total events | 22 (completed) |
 | Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
 | Active riders | 0 |
 | New members joined | 0 |
@@ -149,7 +149,7 @@
 |-------|--------|------------|
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
-| Mar | 4 | DIRT Racing S11 (stages 1–2 ✅), WTRL TTT #359–360 ✅ |
+| Mar | 6 | DIRT Racing S11 (stages 1–4 ✅), WTRL TTT #359–360 ✅ |
 | Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), WTRL TTT |
 | Jun | | WTRL TTT |
