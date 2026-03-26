@@ -19,18 +19,16 @@ TeamUkraine/
 │       ├── WTRL_TTT/                 # Team Time Trial
 │       ├── FRR/                      # Fondo Race series
 │       └── other/                    # Misc events
-├── results/
-│   └── YYYY/                         # Race results, screenshots
 └── discord/
     └── announcements.md              # Discord post templates
 ```
 
 ## Rules
 1. **New event** → copy `events/_template_event.md` into the correct `events/YYYY/SERIES/` folder
-2. **New year** → create `events/YYYY/` with sub-folders mirroring 2026 structure + `results/YYYY/`
+2. **New year** → create `events/YYYY/` with sub-folders mirroring 2026 structure
 3. **New series** → create `events/YYYY/SERIES_NAME/README.md` with series-level tracking
 4. **Roster changes** → update `roster.md` and category distribution counts
-5. **After a race** → fill in results in the event file AND update `season_overview.md`
+5. **After a race** → save result file into `events/YYYY/SERIES/` AND update `season_overview.md`
 6. **File naming**:
    - **Event files**: `YYYY-MM-DD_SERIES_EventName.md`
    - **Result files**: `YYYY-MM-DD_YYYY-MM-DD_SERIES_EventName[_Route].md`
