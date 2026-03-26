@@ -31,7 +31,17 @@ TeamUkraine/
 3. **New series** → create `events/YYYY/SERIES_NAME/README.md` with series-level tracking
 4. **Roster changes** → update `roster.md` and category distribution counts
 5. **After a race** → fill in results in the event file AND update `season_overview.md`
-6. **File naming**: `YYYY-MM-DD_SERIES_EventName.md` for individual event files
+6. **File naming**:
+   - **Event files**: `YYYY-MM-DD_SERIES_EventName.md`
+   - **Result files**: `YYYY-MM-DD_YYYY-MM-DD_SERIES_EventName[_Route].md`
+     - First date = event start, second date = event end (same date if single-day)
+     - `SERIES` = series code (FRR, DIRT, ZRL, WTRL_TTT, etc.)
+     - `EventName` = short event/tour name (WorldTour, S11, etc.)
+     - `_Route` = optional route name for single-stage results
+     - Examples:
+       - `2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md`
+       - `2026-03-03_2026-03-24_DIRT_S11_TeamResults.md`
+       - `2026-03-05_2026-03-05_WTRL_TTT_359_Waisted8.md`
 7. **Discord posts** → use templates from `discord/announcements.md`
 8. **Bilingual content** → all files use Ukrainian (🇺🇦) first, then English (🇬🇧), separated by `---`. Keep both sections in sync when editing.
 
