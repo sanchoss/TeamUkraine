@@ -7,6 +7,7 @@
 ### Контекст
 Ця тека керує **Team Ukraine** — командою з велоперегонів на Zwift.
 Команда бере участь у періодичних гоночних подіях (ZRL, WTRL TTT, FRR, DIRT, спільнотні заїзди тощо) та координується через Discord.
+- Discord: https://discord.gg/khBG9fZD
 - YouTube: https://www.youtube.com/@teamukraineesports
 
 ### Структура теки
@@ -62,6 +63,7 @@ TeamUkraine/
 This folder manages **Team Ukraine**, a cycling e-racing team competing on Zwift.
 The team participates in periodic race events (ZRL, WTRL TTT, FRR, DIRT, community events, etc.)
 and coordinates via Discord.
+- Discord: https://discord.gg/khBG9fZD
 - YouTube: https://www.youtube.com/@teamukraineesports
 
 ### Folder Layout

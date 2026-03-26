@@ -6,7 +6,7 @@
 ### ℹ️ Інформація про сервер
 | Поле | Значення |
 |------|----------|
-| Посилання-запрошення | `TODO` |
+| Посилання-запрошення | https://discord.gg/khBG9fZD |
 | Канали | #загальне, #гонки, #результати, #тренування |
 
 ### 📣 Шаблони оголошень
@@ -63,7 +63,7 @@
 ### ℹ️ Server Info
 | Field | Value |
 |-------|-------|
-| Invite Link | `TODO` |
+| Invite Link | https://discord.gg/khBG9fZD |
 | Channels | #general, #race-events, #results, #training |
 
 ### 📣 Announcement Templates
