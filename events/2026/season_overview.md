@@ -22,8 +22,8 @@
 |---|------|---------|-----|-----------|----------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | ✅ |
 | 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
-| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
-| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
+| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | ❓ |
+| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | ❓ |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -61,15 +61,15 @@
 |----------|----------|
 | Всього подій | 22 (завершено) |
 | Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
-| Активних гонщиків | 0 |
-| Нових учасників | 0 |
+| Активних гонщиків | 128 (у ростері) |
+| Нових учасників | — |
 
 ### 📅 Щомісячна активність
 | Місяць | Подій | Високі очки |
 |--------|-------|-------------|
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
-| Бер | 6 | DIRT Racing S11 (етапи 1–4 ✅), WTRL TTT #359–360 ✅ |
+| Бер | 6+2 | DIRT Racing S11 (етапи 1–6 ✅, серію завершено, #4/304), WTRL TTT #359–360 ✅ |
 | Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), WTRL TTT |
 | Чер | | WTRL TTT |
@@ -102,8 +102,8 @@
 |---|------|-------|------|----------|-------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | ✅ |
 | 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
-| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | 🔜 |
-| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | 🔜 |
+| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | ❓ |
+| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | ❓ |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -141,15 +141,15 @@
 |--------|-------|
 | Total events | 22 (completed) |
 | Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
-| Active riders | 0 |
-| New members joined | 0 |
+| Active riders | 128 (on roster) |
+| New members joined | — |
 
 ### 📅 Monthly Activity
 | Month | Events | Highlights |
 |-------|--------|------------|
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
-| Mar | 6 | DIRT Racing S11 (stages 1–4 ✅), WTRL TTT #359–360 ✅ |
+| Mar | 6+2 | DIRT Racing S11 (stages 1–6 ✅, series complete, #4/304), WTRL TTT #359–360 ✅ |
 | Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), WTRL TTT |
 | Jun | | WTRL TTT |
