@@ -4,26 +4,27 @@
 ## 🇺🇦 Українська
 
 ### 🎯 Цілі
-- [ ] Участь у ZRL Сезон ___
-- [ ] Щотижнева участь у WTRL TTT
-- [ ] Збільшити склад до ___ активних гонщиків
+- [ ] Участь у ZRL — очікуємо анонс сезону
+- [x] Щотижнева участь у WTRL TTT
+- [ ] Збільшити склад (зараз 128 у ростері)
 - [ ] Покращити середню категорію команди
 
 ### 📆 Календар серій
 
 #### 🏟️ Zwift Racing League (ZRL)
-| Етап | Дата | Маршрут | Світ | Кат | Результат | Примітки |
-|------|------|---------|------|-----|-----------|----------|
-| 1 | | | | | | |
-| 2 | | | | | | |
+> ⏳ ZRL сезон 2026 ще не анонсовано. Слідкуйте за [WTRL](https://wtrl.racing/).
 
 #### ⏱️ WTRL Командна гонка на час (TTT)
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
 |---|------|---------|-----|-----------|----------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | ✅ |
-| 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
-| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | ❓ |
-| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | ❓ |
+| 360 | 2026-03-12 | — | TTT | — | ✅ (маршрут невідомий) |
+| 361 | 2026-03-19 | — | TTT | — | ❓ |
+| 362 | 2026-03-26 | — | 🏆 World Cup | — | ❓ |
+| 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
+| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
+| 365 | 2026-04-16 | — | TTT | — | ❓ |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -39,8 +40,11 @@
 |-------|------|-----------|------|
 | Tour Watopia | ❓ | ❓ | ❓ |
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
+| Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
 
-#### DIRT Racing Series — Season 11 (завершено)
+> ⏳ Tour Watopia (січ 2026): результати досі не опубліковані на сайті FRR.
+
+#### 💨 DIRT Racing Series — Season 11 (завершено)
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір |
 |---|------|---------|------|--------|-----------|-------|
 | 1 | 2026-03-03 | Downtown Titans | Watopia | Points | 24.6 км | 292 м |
@@ -93,26 +97,27 @@
 ## 🇬🇧 English
 
 ### 🎯 Goals
-- [ ] Compete in ZRL Season ___
-- [ ] Weekly WTRL TTT participation
-- [ ] Grow roster to ___ active riders
+- [ ] Compete in ZRL — awaiting season announcement
+- [x] Weekly WTRL TTT participation
+- [ ] Grow roster (currently 128 on roster)
 - [ ] Improve team category average
 
 ### 📆 Series Calendar
 
 #### 🏟️ Zwift Racing League (ZRL)
-| Stage | Date | Route | World | Cat | Result | Notes |
-|-------|------|-------|-------|-----|--------|-------|
-| 1 | | | | | | |
-| 2 | | | | | | |
+> ⏳ ZRL 2026 season not yet announced. Follow [WTRL](https://wtrl.racing/).
 
 #### ⏱️ WTRL Team Time Trial (TTT)
 | # | Date | Route | Type | Distance | Notes |
 |---|------|-------|------|----------|-------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | ✅ |
-| 360 | 2026-03-12 | TBA | TTT | TBA | ✅ |
-| — | 2026-03-26 | TBA | 🏆 World Cup | TBA | ❓ |
-| — | 2026-04-02 | TBA | 🎭 April Fools | TBA | ❓ |
+| 360 | 2026-03-12 | — | TTT | — | ✅ (route unknown) |
+| 361 | 2026-03-19 | — | TTT | — | ❓ |
+| 362 | 2026-03-26 | — | 🏆 World Cup | — | ❓ |
+| 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
+| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
+| 365 | 2026-04-16 | — | TTT | — | ❓ |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | 🔜 |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -128,6 +133,9 @@
 |--------|-------|-----|-------|
 | Tour Watopia | ❓ | ❓ | ❓ |
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
+| Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
+
+> ⏳ Tour Watopia (Jan 2026): results still not published on FRR website.
 
 #### 💨 DIRT Racing Series — Season 11 (complete)
 | # | Date | Route | World | Format | Distance | Elevation |
