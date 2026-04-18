@@ -9,7 +9,7 @@
 | **Сайт** | [wtrl.racing](https://wtrl.racing) |
 | Дивізіон | |
 | ZwiftPower команди | |
-| Звичайний день/час | Четвер |
+| Звичайний день/час | Четвер — ❓ EDT 🇺🇸 / ❓ UTC 🌍 / ❓ EEST 🇺🇦 |
 
 ### 📆 Найближчі події
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
@@ -48,7 +48,7 @@
 | **Website** | [wtrl.racing](https://wtrl.racing) |
 | Division | |
 | Team ZwiftPower | |
-| Usual Day/Time | Thursday |
+| Usual Day/Time | Thursday — ❓ EDT 🇺🇸 / ❓ UTC 🌍 / ❓ EEST 🇺🇦 |
 
 ### 📆 Upcoming Events
 | # | Date | Route | Type | Distance | Notes |

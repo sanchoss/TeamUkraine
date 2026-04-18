@@ -4,15 +4,25 @@
 ## 🇺🇦 Українська
 
 ### 🎯 Цілі
-- [ ] Участь у ZRL — очікуємо анонс сезону
+- [x] Участь у ZRL — R19 (Раунд 4) в процесі (квітень 2026)
 - [x] Щотижнева участь у WTRL TTT
 - [ ] Збільшити склад (зараз 128 у ростері)
 - [ ] Покращити середню категорію команди
 
 ### 📆 Календар серій
 
-#### 🏟️ Zwift Racing League (ZRL)
-> ⏳ ZRL сезон 2026 ще не анонсовано. Слідкуйте за [WTRL](https://wtrl.racing/).
+#### 🏟️ Zwift Racing League (ZRL) — Сезон 2025/26, Раунд 4 (R19)
+> 🔄 **Фінальний раунд:** 7–28 квітня 2026 (4 гонки)
+> 🔗 [ZwiftInsider](https://zwiftinsider.com/zrl-r19/) | [WTRL](https://www.wtrl.racing/zwift-racing-league/)
+
+| # | Дата | Маршрут | Світ | Формат | Дистанція (A/B) | Набір | Статус |
+|---|------|---------|------|--------|-----------------|-------|--------|
+| 1 | 2026-04-07 Вт | Hell of the North | France | TTT | 20.1 км | 241 м | ✅ |
+| 2 | 2026-04-14 Вт | The Classic | Watopia | Points | 32.3 км | 310 м | ✅ |
+| 3 | 2026-04-21 Вт | Croissant | France | Scratch | 40.4 км | 219 м | 🔜 |
+| 4 | 2026-04-28 Вт | Double Span Spin | New York | Points | 40.6 км | 531 м | 🔜 |
+
+**💙💛 TUKR результати ZRL:** ❓ (потрібно уточнити дивізіон та позицію)
 
 #### ⏱️ WTRL Командна гонка на час (TTT)
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
@@ -83,7 +93,7 @@
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
 | Бер | 6+2 | DIRT Racing S11 (етапи 1–6 ✅, серію завершено, #4/304), WTRL TTT #359–360 ✅ |
-| Кві | | FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
+| Кві | 4+ | ZRL R19 (етапи 1–4), FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), DIRT S12 "A DIRTy Dozen" (з 05.05), WTRL TTT |
 | Чер | | DIRT S12 (до 02.06), WTRL TTT |
 | Лип | | WTRL TTT (Canada Day Special 02.07) |
@@ -97,15 +107,25 @@
 ## 🇬🇧 English
 
 ### 🎯 Goals
-- [ ] Compete in ZRL — awaiting season announcement
+- [x] Compete in ZRL — R19 (Round 4) in progress (April 2026)
 - [x] Weekly WTRL TTT participation
 - [ ] Grow roster (currently 128 on roster)
 - [ ] Improve team category average
 
 ### 📆 Series Calendar
 
-#### 🏟️ Zwift Racing League (ZRL)
-> ⏳ ZRL 2026 season not yet announced. Follow [WTRL](https://wtrl.racing/).
+#### 🏟️ Zwift Racing League (ZRL) — Season 2025/26, Round 4 (R19)
+> 🔄 **Final round:** April 7–28, 2026 (4 races)
+> 🔗 [ZwiftInsider](https://zwiftinsider.com/zrl-r19/) | [WTRL](https://www.wtrl.racing/zwift-racing-league/)
+
+| # | Date | Route | World | Format | Distance (A/B) | Elev | Status |
+|---|------|-------|-------|--------|----------------|------|--------|
+| 1 | 2026-04-07 Tue | Hell of the North | France | TTT | 20.1 km | 241 m | ✅ |
+| 2 | 2026-04-14 Tue | The Classic | Watopia | Points | 32.3 km | 310 m | ✅ |
+| 3 | 2026-04-21 Tue | Croissant | France | Scratch | 40.4 km | 219 m | 🔜 |
+| 4 | 2026-04-28 Tue | Double Span Spin | New York | Points | 40.6 km | 531 m | 🔜 |
+
+**💙💛 TUKR ZRL results:** ❓ (division & position TBD)
 
 #### ⏱️ WTRL Team Time Trial (TTT)
 | # | Date | Route | Type | Distance | Notes |
@@ -176,7 +196,7 @@
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
 | Mar | 6+2 | DIRT Racing S11 (stages 1–6 ✅, series complete, #4/304), WTRL TTT #359–360 ✅ |
-| Apr | | FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
+| Apr | 4+ | ZRL R19 (races 1–4), FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
 | May | | FRR Grand Tour Triquetra (ends May 17), DIRT S12 "A DIRTy Dozen" (starts May 5), WTRL TTT |
 | Jun | | DIRT S12 (ends Jun 2), WTRL TTT |
 | Jul | | WTRL TTT (Canada Day Special Jul 2) |

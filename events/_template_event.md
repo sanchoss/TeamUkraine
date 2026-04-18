@@ -10,7 +10,7 @@
 |------|----------|
 | **Серія** | |
 | **Подія/Етап** | |
-| **Дата і час** | YYYY-MM-DD HH:MM UTC / HH:MM EET / HH:MM EST |
+| **Дата і час** | YYYY-MM-DD HH:MM EDT 🇺🇸 / HH:MM UTC 🌍 / HH:MM EEST 🇺🇦 |
 | **Світ Zwift** | |
 | **Маршрут** | |
 | **Дистанція** | км |
@@ -64,7 +64,7 @@
 |-------|-------|
 | **Series** | |
 | **Event/Stage** | |
-| **Date & Time** | YYYY-MM-DD HH:MM UTC / HH:MM EET / HH:MM EST |
+| **Date & Time** | YYYY-MM-DD HH:MM EDT 🇺🇸 / HH:MM UTC 🌍 / HH:MM EEST 🇺🇦 |
 | **Zwift World** | |
 | **Route** | |
 | **Distance** | km |
