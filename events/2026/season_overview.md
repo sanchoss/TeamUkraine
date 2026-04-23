@@ -19,7 +19,7 @@
 |---|------|---------|------|--------|-----------------|-------|--------|
 | 1 | 2026-04-07 Вт | Hell of the North | France | TTT | 20.1 км | 241 м | ✅ |
 | 2 | 2026-04-14 Вт | The Classic | Watopia | Points | 32.3 км | 310 м | ✅ |
-| 3 | 2026-04-21 Вт | Croissant | France | Scratch | 40.4 км | 219 м | 🔜 |
+| 3 | 2026-04-21 Вт | Croissant | France | Scratch | 40.4 км | 219 м | ✅ |
 | 4 | 2026-04-28 Вт | Double Span Spin | New York | Points | 40.6 км | 531 м | 🔜 |
 
 **💙💛 TUKR результати ZRL:** ❓ (потрібно уточнити дивізіон та позицію)
@@ -34,7 +34,7 @@
 | 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
 | 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
 | 365 | 2026-04-16 | — | TTT | — | ❓ |
-| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | 🔜 |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | � Сьогодні |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -52,7 +52,7 @@
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
 | Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
 
-> ⏳ Tour Watopia (січ 2026): результати досі не опубліковані на сайті FRR.
+> ⏳ Tour Watopia (січ 2026): результати досі не опубліковані на сайті FRR (перевірено 2026-04-23 — таблиця порожня).
 
 #### 💨 DIRT Racing Series — Season 11 (завершено)
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір |
@@ -93,7 +93,7 @@
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
 | Бер | 6+2 | DIRT Racing S11 (етапи 1–6 ✅, серію завершено, #4/304), WTRL TTT #359–360 ✅ |
-| Кві | 4+ | ZRL R19 (етапи 1–4), FRR Grand Tour Triquetra (починається 25.04), WTRL TTT |
+| Кві | 4+ | ZRL R19 етапи 1–3 ✅, етап 4 (28.04) 🔜, FRR Grand Tour Triquetra (починається 25.04), WTRL TTT #361–366 |
 | Тра | | FRR Grand Tour Triquetra (до 17.05), DIRT S12 "A DIRTy Dozen" (з 05.05), WTRL TTT |
 | Чер | | DIRT S12 (до 02.06), WTRL TTT |
 | Лип | | WTRL TTT (Canada Day Special 02.07) |
@@ -122,7 +122,7 @@
 |---|------|-------|-------|--------|----------------|------|--------|
 | 1 | 2026-04-07 Tue | Hell of the North | France | TTT | 20.1 km | 241 m | ✅ |
 | 2 | 2026-04-14 Tue | The Classic | Watopia | Points | 32.3 km | 310 m | ✅ |
-| 3 | 2026-04-21 Tue | Croissant | France | Scratch | 40.4 km | 219 m | 🔜 |
+| 3 | 2026-04-21 Tue | Croissant | France | Scratch | 40.4 km | 219 m | ✅ |
 | 4 | 2026-04-28 Tue | Double Span Spin | New York | Points | 40.6 km | 531 m | 🔜 |
 
 **💙💛 TUKR ZRL results:** ❓ (division & position TBD)
@@ -137,7 +137,7 @@
 | 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
 | 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
 | 365 | 2026-04-16 | — | TTT | — | ❓ |
-| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | 🔜 |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | � Today |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -155,7 +155,7 @@
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
 | Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
 
-> ⏳ Tour Watopia (Jan 2026): results still not published on FRR website.
+> ⏳ Tour Watopia (Jan 2026): results still not published on FRR website (checked 2026-04-23 — table empty).
 
 #### 💨 DIRT Racing Series — Season 11 (complete)
 | # | Date | Route | World | Format | Distance | Elevation |
@@ -196,7 +196,7 @@
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
 | Mar | 6+2 | DIRT Racing S11 (stages 1–6 ✅, series complete, #4/304), WTRL TTT #359–360 ✅ |
-| Apr | 4+ | ZRL R19 (races 1–4), FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT |
+| Apr | 4+ | ZRL R19 races 1–3 ✅, race 4 (Apr 28) 🔜, FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT #361–366 |
 | May | | FRR Grand Tour Triquetra (ends May 17), DIRT S12 "A DIRTy Dozen" (starts May 5), WTRL TTT |
 | Jun | | DIRT S12 (ends Jun 2), WTRL TTT |
 | Jul | | WTRL TTT (Canada Day Special Jul 2) |

@@ -21,7 +21,7 @@
 |---|------|---------|------|--------|-----------------|-------|--------|
 | 1 | 2026-04-07 Вт | Hell of the North | France | 🏎️ TTT | 20.1 км | 241 м | ✅ |
 | 2 | 2026-04-14 Вт | The Classic | Watopia | 📊 Points | 32.3 км (6 кіл) | 310 м | ✅ |
-| 3 | 2026-04-21 Вт | Croissant | France | 🏁 Scratch | 40.4 км (4 кола) | 219 м | 🔜 |
+| 3 | 2026-04-21 Вт | Croissant | France | 🏁 Scratch | 40.4 км (4 кола) | 219 м | ✅ |
 | 4 | 2026-04-28 Вт | Double Span Spin | New York | 📊 Points | 40.6 км (5 кіл) | 531 м | 🔜 |
 
 > **C/D категорії:** менше кіл — Race 2: 4 кола (22.9 км), Race 3: 3 кола (31.1 км), Race 4: 3 кола (26.6 км)
@@ -68,7 +68,7 @@
 |---|------|-------|-------|--------|----------------|------|--------|
 | 1 | 2026-04-07 Tue | Hell of the North | France | 🏎️ TTT | 20.1 km | 241 m | ✅ |
 | 2 | 2026-04-14 Tue | The Classic | Watopia | 📊 Points | 32.3 km (6 laps) | 310 m | ✅ |
-| 3 | 2026-04-21 Tue | Croissant | France | 🏁 Scratch | 40.4 km (4 laps) | 219 m | 🔜 |
+| 3 | 2026-04-21 Tue | Croissant | France | 🏁 Scratch | 40.4 km (4 laps) | 219 m | ✅ |
 | 4 | 2026-04-28 Tue | Double Span Spin | New York | 📊 Points | 40.6 km (5 laps) | 531 m | 🔜 |
 
 > **C/D categories:** fewer laps — Race 2: 4 laps (22.9 km), Race 3: 3 laps (31.1 km), Race 4: 3 laps (26.6 km)
