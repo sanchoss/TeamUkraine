@@ -14,11 +14,11 @@
 | Сезон | Назва | Дати | Етапів | Статус |
 |-------|-------|------|--------|--------|
 | S11 | | Березень 2026 | 6 | ✅ Завершено (#4/304) |
-| S12 | A DIRTy Dozen | 5 травня – 2 червня 2026 | TBD | 🔜 Реєстрація відкрита |
+| S12 | A DIRTy Dozen | 5 травня – 2 червня 2026 | 5 | 🔄 В процесі (253 команд / 1556 гонщиків) |
 
 ---
 
-## 🏁 Сезон 12 — A DIRTy Dozen (майбутній)
+## 🏁 Сезон 12 — A DIRTy Dozen (в процесі)
 
 | Поле | Значення |
 |------|----------|
@@ -26,18 +26,18 @@
 | **Період** | Кожен вівторок, 5 травня – 2 червня 2026 |
 | **Формат** | TBD |
 | **Реєстрація** | [dirtracingseries.com/account](https://dirtracingseries.com/account) |
-| **Статус** | 🔜 Реєстрація відкрита |
+| **Статус** | � В процесі (253 команд / 1556 гонщиків) |
 
 ### 🚩 Етапи S12
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір | Статус |
 |---|------|---------|------|--------|-----------|-------|--------|
-| 1 | 2026-05-05 | TBA | TBA | TBA | TBA | TBA | 🔜 |
+| 1 | 2026-05-05 | TBA | TBA | TBA | TBA | TBA | ✅ |
 | 2 | 2026-05-12 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 3 | 2026-05-19 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 4 | 2026-05-26 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 5 | 2026-06-02 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 
-> ⚠️ "A DIRTy Dozen" — маршрути та деталі ще не оголошені. Слідкуйте за [DIRT Discord](https://discord.com/channels/941066968461627393/1136179317378916473).
+> ℹ️ S12 розпочато! 253 команди / 1556 гонщиків. Маршрути ще не оголошені публічно (потрібен логін).
 > 
 > 📝 **Дія:** Капітанам — увімкнути команди на [My Teams](https://dirtracingseries.com/riders/my-teams/). Гонщикам — позначити "I plan to race" у [акаунті](https://dirtracingseries.com/account/).
 
@@ -90,11 +90,11 @@
 | Season | Name | Dates | Stages | Status |
 |--------|------|-------|--------|--------|
 | S11 | | March 2026 | 6 | ✅ Complete (#4/304) |
-| S12 | A DIRTy Dozen | May 5 – June 2, 2026 | TBD | 🔜 Signups open |
+| S12 | A DIRTy Dozen | May 5 – June 2, 2026 | 5 | 🔄 Running (253 teams / 1556 racers) |
 
 ---
 
-## 🏁 Season 12 — A DIRTy Dozen (upcoming)
+## 🏁 Season 12 — A DIRTy Dozen (running)
 
 | Field | Value |
 |-------|-------|
@@ -102,18 +102,18 @@
 | **Period** | Every Tuesday, May 5 – June 2, 2026 |
 | **Format** | TBD |
 | **Registration** | [dirtracingseries.com/account](https://dirtracingseries.com/account) |
-| **Status** | 🔜 Signups open |
+| **Status** | � Running (253 teams / 1556 racers) |
 
 ### 🚩 S12 Stages
 | # | Date | Route | World | Format | Distance | Elevation | Status |
 |---|------|-------|-------|--------|----------|-----------|--------|
-| 1 | 2026-05-05 | TBA | TBA | TBA | TBA | TBA | 🔜 |
+| 1 | 2026-05-05 | TBA | TBA | TBA | TBA | TBA | ✅ |
 | 2 | 2026-05-12 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 3 | 2026-05-19 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 4 | 2026-05-26 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 | 5 | 2026-06-02 | TBA | TBA | TBA | TBA | TBA | 🔜 |
 
-> ⚠️ "A DIRTy Dozen" — routes and details not yet announced. Follow [DIRT Discord](https://discord.com/channels/941066968461627393/1136179317378916473).
+> ℹ️ S12 is running! 253 teams / 1556 racers. Routes not yet publicly announced (login required).
 >
 > 📝 **Action:** Captains — opt in teams at [My Teams](https://dirtracingseries.com/riders/my-teams/). Racers — tick "I plan to race" in your [account](https://dirtracingseries.com/account/).
 

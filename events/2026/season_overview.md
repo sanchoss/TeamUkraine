@@ -4,7 +4,7 @@
 ## 🇺🇦 Українська
 
 ### 🎯 Цілі
-- [x] Участь у ZRL — R19 (Раунд 4) в процесі (квітень 2026)
+- [x] Участь у ZRL — R19 (Раунд 4) ✅ завершено (квітень 2026)
 - [x] Щотижнева участь у WTRL TTT
 - [ ] Збільшити склад (зараз 128 у ростері)
 - [ ] Покращити середню категорію команди
@@ -12,7 +12,7 @@
 ### 📆 Календар серій
 
 #### 🏟️ Zwift Racing League (ZRL) — Сезон 2025/26, Раунд 4 (R19)
-> 🔄 **Фінальний раунд:** 7–28 квітня 2026 (4 гонки)
+> ✅ **Фінальний раунд завершено:** 7–28 квітня 2026 (4 гонки)
 > 🔗 [ZwiftInsider](https://zwiftinsider.com/zrl-r19/) | [WTRL](https://www.wtrl.racing/zwift-racing-league/)
 
 | # | Дата | Маршрут | Світ | Формат | Дистанція (A/B) | Набір | Статус |
@@ -20,7 +20,7 @@
 | 1 | 2026-04-07 Вт | Hell of the North | France | TTT | 20.1 км | 241 м | ✅ |
 | 2 | 2026-04-14 Вт | The Classic | Watopia | Points | 32.3 км | 310 м | ✅ |
 | 3 | 2026-04-21 Вт | Croissant | France | Scratch | 40.4 км | 219 м | ✅ |
-| 4 | 2026-04-28 Вт | Double Span Spin | New York | Points | 40.6 км | 531 м | 🔜 |
+| 4 | 2026-04-28 Вт | Double Span Spin | New York | Points | 40.6 км | 531 м | ✅ |
 
 **💙💛 TUKR результати ZRL:** ❓ (потрібно уточнити дивізіон та позицію)
 
@@ -28,13 +28,16 @@
 | # | Дата | Маршрут | Тип | Дистанція | Примітки |
 |---|------|---------|-----|-----------|----------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 км | ✅ |
-| 360 | 2026-03-12 | — | TTT | — | ✅ (маршрут невідомий) |
-| 361 | 2026-03-19 | — | TTT | — | ❓ |
-| 362 | 2026-03-26 | — | 🏆 World Cup | — | ❓ |
-| 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
-| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
-| 365 | 2026-04-16 | — | TTT | — | ❓ |
-| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | � Сьогодні |
+| 360 | 2026-03-12 | — | TTT | — | ✅ |
+| 361 | 2026-03-19 | — | TTT | — | ✅ |
+| 362 | 2026-03-26 | — | 🏆 World Cup | — | ✅ |
+| 363 | 2026-04-02 | — | 🎭 April Fools | — | ✅ |
+| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ✅ |
+| 365 | 2026-04-16 | — | TTT | — | ✅ |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | ✅ |
+| 367 | 2026-04-30 | — | TTT | — | ✅ |
+| 368 | 2026-05-07 | — | TTT | — | ✅ |
+| 369 | 2026-05-14 | TBA | TTT | TBA | 🔜 Наступний |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -42,7 +45,7 @@
 |-------|------|--------|--------|
 | Tour Watopia | 3–11 січня | 8 | ✅ |
 | World Tour | 14–22 лютого | 8 | ✅ |
-| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | 🔜 |
+| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | � В процесі (ТУКР не зареєстровано) |
 
 **💙💛 TUKR командні результати:**
 
@@ -50,9 +53,11 @@
 |-------|------|-----------|------|
 | Tour Watopia | ❓ | ❓ | ❓ |
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
-| Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
+| Grand Tour Triquetra | — | — | — |
 
-> ⏳ Tour Watopia (січ 2026): результати досі не опубліковані на сайті FRR (перевірено 2026-04-23 — таблиця порожня).
+> ⚠️ TUKR не зареєстровано в Grand Tour Triquetra (FTQ.5). Перевірено 2026-05-08.
+
+> ⏳ Tour Watopia (січ 2026): результати досі не опубліковані на сайті FRR (перевірено 2026-05-08 — таблиця порожня).
 
 #### 💨 DIRT Racing Series — Season 11 (завершено)
 | # | Дата | Маршрут | Світ | Формат | Дистанція | Набір |
@@ -64,14 +69,16 @@
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 км | 88 м |
 | 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.2 км | 130 м |
 
-#### 💨 DIRT Racing Series — Season 12 "A DIRTy Dozen" (🔜)
+#### 💨 DIRT Racing Series — Season 12 "A DIRTy Dozen" (� В процесі)
 | # | Дата | Маршрут | Формат | Статус |
 |---|------|---------|--------|--------|
-| 1 | 2026-05-05 | TBA | TBA | 🔜 |
+| 1 | 2026-05-05 | TBA | TBA | ✅ |
 | 2 | 2026-05-12 | TBA | TBA | 🔜 |
 | 3 | 2026-05-19 | TBA | TBA | 🔜 |
 | 4 | 2026-05-26 | TBA | TBA | 🔜 |
 | 5 | 2026-06-02 | TBA | TBA | 🔜 |
+
+> ℹ️ 253 команди / 1556 гонщиків. Маршрути потребують логіну на сайті DIRT.
 
 #### 📋 Інші серії
 | Серія | Дати | Подій | Статус |
@@ -82,7 +89,7 @@
 ### 📊 Статистика сезону
 | Показник | Значення |
 |----------|----------|
-| Всього подій | 22 (завершено) |
+| Всього подій | 33 (завершено: ZRL 4 + DIRT S11 6 + FRR 16 + WTRL TTT 10 = 36; в процесі: FRR GTT + DIRT S12) |
 | Найкращий фініш | 🥇 #1 FRR World Tour — Чоловіки Дів 1 |
 | Активних гонщиків | 128 (у ростері) |
 | Нових учасників | — |
@@ -93,8 +100,8 @@
 | Січ | 8 | FRR Tour Watopia (8 етапів) — результати очікуються |
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
 | Бер | 6+2 | DIRT Racing S11 (етапи 1–6 ✅, серію завершено, #4/304), WTRL TTT #359–360 ✅ |
-| Кві | 4+ | ZRL R19 етапи 1–3 ✅, етап 4 (28.04) 🔜, FRR Grand Tour Triquetra (починається 25.04), WTRL TTT #361–366 |
-| Тра | | FRR Grand Tour Triquetra (до 17.05), DIRT S12 "A DIRTy Dozen" (з 05.05), WTRL TTT |
+| Кві | 4+6 | ZRL R19 етапи 1–4 ✅ (сезон завершено), FRR Grand Tour Triquetra (починається 25.04, ТУКР не зареєстровано), WTRL TTT #361–368 ✅ |
+| Тра | 1+ | DIRT S12 етап 1 ✅, FRR Grand Tour Triquetra (до 17.05), WTRL TTT #368–369 |
 | Чер | | DIRT S12 (до 02.06), WTRL TTT |
 | Лип | | WTRL TTT (Canada Day Special 02.07) |
 | Сер | | |
@@ -107,7 +114,7 @@
 ## 🇬🇧 English
 
 ### 🎯 Goals
-- [x] Compete in ZRL — R19 (Round 4) in progress (April 2026)
+- [x] Compete in ZRL — R19 (Round 4) ✅ completed (April 2026)
 - [x] Weekly WTRL TTT participation
 - [ ] Grow roster (currently 128 on roster)
 - [ ] Improve team category average
@@ -115,7 +122,7 @@
 ### 📆 Series Calendar
 
 #### 🏟️ Zwift Racing League (ZRL) — Season 2025/26, Round 4 (R19)
-> 🔄 **Final round:** April 7–28, 2026 (4 races)
+> ✅ **Final round completed:** April 7–28, 2026 (4 races)
 > 🔗 [ZwiftInsider](https://zwiftinsider.com/zrl-r19/) | [WTRL](https://www.wtrl.racing/zwift-racing-league/)
 
 | # | Date | Route | World | Format | Distance (A/B) | Elev | Status |
@@ -123,7 +130,7 @@
 | 1 | 2026-04-07 Tue | Hell of the North | France | TTT | 20.1 km | 241 m | ✅ |
 | 2 | 2026-04-14 Tue | The Classic | Watopia | Points | 32.3 km | 310 m | ✅ |
 | 3 | 2026-04-21 Tue | Croissant | France | Scratch | 40.4 km | 219 m | ✅ |
-| 4 | 2026-04-28 Tue | Double Span Spin | New York | Points | 40.6 km | 531 m | 🔜 |
+| 4 | 2026-04-28 Tue | Double Span Spin | New York | Points | 40.6 km | 531 m | ✅ |
 
 **💙💛 TUKR ZRL results:** ❓ (division & position TBD)
 
@@ -131,13 +138,16 @@
 | # | Date | Route | Type | Distance | Notes |
 |---|------|-------|------|----------|-------|
 | 359 | 2026-03-05 | Waisted 8 | TTT | 30.9 km | ✅ |
-| 360 | 2026-03-12 | — | TTT | — | ✅ (route unknown) |
-| 361 | 2026-03-19 | — | TTT | — | ❓ |
-| 362 | 2026-03-26 | — | 🏆 World Cup | — | ❓ |
-| 363 | 2026-04-02 | — | 🎭 April Fools | — | ❓ |
-| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ❓ |
-| 365 | 2026-04-16 | — | TTT | — | ❓ |
-| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | � Today |
+| 360 | 2026-03-12 | — | TTT | — | ✅ |
+| 361 | 2026-03-19 | — | TTT | — | ✅ |
+| 362 | 2026-03-26 | — | 🏆 World Cup | — | ✅ |
+| 363 | 2026-04-02 | — | 🎭 April Fools | — | ✅ |
+| 364 | 2026-04-09 | — | 🎂 7th Anniversary | — | ✅ |
+| 365 | 2026-04-16 | — | TTT | — | ✅ |
+| 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | ✅ |
+| 367 | 2026-04-30 | — | TTT | — | ✅ |
+| 368 | 2026-05-07 | — | TTT | — | ✅ |
+| 369 | 2026-05-14 | TBA | TTT | TBA | 🔜 Next |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -145,7 +155,7 @@
 |--------|-------|--------|--------|
 | Tour Watopia | Jan 3–11 | 8 | ✅ |
 | World Tour | Feb 14–22 | 8 | ✅ |
-| Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 |
+| Grand Tour Triquetra | Apr 25 – May 17 | 21 | � In progress (TUKR not registered) |
 
 **💙💛 TUKR Team Results:**
 
@@ -153,9 +163,11 @@
 |--------|-------|-----|-------|
 | Tour Watopia | ❓ | ❓ | ❓ |
 | World Tour | **#5** / 16 | 🥇 **#1** / 17 | **#11** / 25 |
-| Grand Tour Triquetra | 🔜 | 🔜 | 🔜 |
+| Grand Tour Triquetra | — | — | — |
 
-> ⏳ Tour Watopia (Jan 2026): results still not published on FRR website (checked 2026-04-23 — table empty).
+> ⚠️ TUKR not registered in Grand Tour Triquetra (FTQ.5). Checked 2026-05-08.
+
+> ⏳ Tour Watopia (Jan 2026): results still not published on FRR website (checked 2026-05-08 — table empty).
 
 #### 💨 DIRT Racing Series — Season 11 (complete)
 | # | Date | Route | World | Format | Distance | Elevation |
@@ -167,14 +179,16 @@
 | 5 | 2026-03-31 | Two Village Loop | Makuri Islands | iTT | 12.9 km | 88 m |
 | 6 | 2026-03-31 | Scotland Smash | Scotland | Points | 15.2 km | 130 m |
 
-#### 💨 DIRT Racing Series — Season 12 "A DIRTy Dozen" (🔜)
+#### 💨 DIRT Racing Series — Season 12 "A DIRTy Dozen" (� Running)
 | # | Date | Route | Format | Status |
 |---|------|-------|--------|--------|
-| 1 | 2026-05-05 | TBA | TBA | 🔜 |
+| 1 | 2026-05-05 | TBA | TBA | ✅ |
 | 2 | 2026-05-12 | TBA | TBA | 🔜 |
 | 3 | 2026-05-19 | TBA | TBA | 🔜 |
 | 4 | 2026-05-26 | TBA | TBA | 🔜 |
 | 5 | 2026-06-02 | TBA | TBA | 🔜 |
+
+> ℹ️ 253 teams / 1556 racers. Routes require login on DIRT site.
 
 #### 📋 Other Series
 | Series | Dates | Events | Status |
@@ -185,7 +199,7 @@
 ### 📊 Season Stats
 | Metric | Value |
 |--------|-------|
-| Total events | 22 (completed) |
+| Total events | 36+ (completed: ZRL 4 + DIRT S11 6 + FRR 16 + WTRL TTT 10; in progress: DIRT S12 + WTRL TTT) |
 | Best team finish | 🥇 #1 FRR World Tour — Men Div 1 |
 | Active riders | 128 (on roster) |
 | New members joined | — |
@@ -196,8 +210,8 @@
 | Jan | 8 | FRR Tour Watopia (8 stages) — results pending |
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
 | Mar | 6+2 | DIRT Racing S11 (stages 1–6 ✅, series complete, #4/304), WTRL TTT #359–360 ✅ |
-| Apr | 4+ | ZRL R19 races 1–3 ✅, race 4 (Apr 28) 🔜, FRR Grand Tour Triquetra (starts Apr 25), WTRL TTT #361–366 |
-| May | | FRR Grand Tour Triquetra (ends May 17), DIRT S12 "A DIRTy Dozen" (starts May 5), WTRL TTT |
+| Apr | 4+8 | ZRL R19 races 1–4 ✅ (round completed), FRR Grand Tour Triquetra (starts Apr 25, TUKR not registered), WTRL TTT #361–368 ✅ |
+| May | 1+ | DIRT S12 stage 1 ✅, FRR Grand Tour Triquetra (ends May 17), WTRL TTT #368–369 |
 | Jun | | DIRT S12 (ends Jun 2), WTRL TTT |
 | Jul | | WTRL TTT (Canada Day Special Jul 2) |
 | Aug | | |

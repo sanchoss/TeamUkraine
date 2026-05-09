@@ -16,7 +16,7 @@
 |-------------|------|--------|--------|
 | Tour Watopia | 3–11 січня | 8 | ✅ Завершено |
 | World Tour | 14–22 лютого | 8 | ✅ Завершено |
-| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | 🔜 Майбутній |
+| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | � В процесі (ТУКР не зареєстровано) |
 
 ### 📊 Командні результати TUKR 💙💛
 
@@ -54,7 +54,7 @@
 
 > 📊 **Результати:** див. таблиці вище та [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (попередні)
 
-### 🔺 Grand Tour Triquetra (майбутній)
+### 🔺 Гранд Тур Трікветра (в процесі — ТУКР не зареєстровано)
 | # | Дата | Маршрут | Світ | Тип | Дистанція | Набір |
 |---|------|---------|------|-----|-----------|-------|
 | 1 | 2026-04-25 Сб | <a href="https://zwiftinsider.com/route/spinfinity-ultra" target="_blank">Spinfinity Ultra</a> | New York | Flat | 47 км | 330 м |
@@ -126,7 +126,7 @@
 |-------------|-------|--------|--------|
 | Tour Watopia | Jan 3–11 | 8 | ✅ Completed |
 | World Tour | Feb 14–22 | 8 | ✅ Completed |
-| Grand Tour Triquetra | Apr 25 – May 17 | 21 | 🔜 Upcoming |
+| Grand Tour Triquetra | Apr 25 – May 17 | 21 | � In progress (TUKR not registered) |
 
 ### 📊 TUKR Team Results 💙💛
 
@@ -164,7 +164,7 @@
 
 > 📊 **Results:** see tables above and [2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md](2026-02-14_2026-02-22_FRR_WorldTour_TeamStandings.md) (provisional)
 
-### 🔺 Grand Tour Triquetra (upcoming)
+### 🔺 Grand Tour Triquetra (in progress — TUKR not registered)
 | # | Date | Route | World | Type | Distance | Elevation |
 |---|------|-------|-------|------|----------|-----------|
 | 1 | 2026-04-25 Sat | <a href="https://zwiftinsider.com/route/spinfinity-ultra" target="_blank">Spinfinity Ultra</a> | New York | Flat | 47 km | 330 m |

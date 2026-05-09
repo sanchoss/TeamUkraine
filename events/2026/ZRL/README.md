@@ -22,7 +22,7 @@
 | 1 | 2026-04-07 Вт | Hell of the North | France | 🏎️ TTT | 20.1 км | 241 м | ✅ |
 | 2 | 2026-04-14 Вт | The Classic | Watopia | 📊 Points | 32.3 км (6 кіл) | 310 м | ✅ |
 | 3 | 2026-04-21 Вт | Croissant | France | 🏁 Scratch | 40.4 км (4 кола) | 219 м | ✅ |
-| 4 | 2026-04-28 Вт | Double Span Spin | New York | 📊 Points | 40.6 км (5 кіл) | 531 м | 🔜 |
+| 4 | 2026-04-28 Вт | Double Span Spin | New York | 📊 Points | 40.6 км (5 кіл) | 531 м | ✅ |
 
 > **C/D категорії:** менше кіл — Race 2: 4 кола (22.9 км), Race 3: 3 кола (31.1 км), Race 4: 3 кола (26.6 км)
 
@@ -45,7 +45,7 @@
 | R1 (R16) | 16 вересня – 7 жовтня 2025 | ✅ |
 | R2 (R17) | 4 листопада – 9 грудня 2025 | ✅ |
 | R3 (R18) | 6 січня – 10 лютого 2026 | ✅ |
-| R4 (R19) | 7–28 квітня 2026 | 🔄 В процесі |
+| R4 (R19) | 7–28 квітня 2026 | ✅ Завершено |
 
 ---
 ## 🇬🇧 English
@@ -69,7 +69,7 @@
 | 1 | 2026-04-07 Tue | Hell of the North | France | 🏎️ TTT | 20.1 km | 241 m | ✅ |
 | 2 | 2026-04-14 Tue | The Classic | Watopia | 📊 Points | 32.3 km (6 laps) | 310 m | ✅ |
 | 3 | 2026-04-21 Tue | Croissant | France | 🏁 Scratch | 40.4 km (4 laps) | 219 m | ✅ |
-| 4 | 2026-04-28 Tue | Double Span Spin | New York | 📊 Points | 40.6 km (5 laps) | 531 m | 🔜 |
+| 4 | 2026-04-28 Tue | Double Span Spin | New York | 📊 Points | 40.6 km (5 laps) | 531 m | ✅ |
 
 > **C/D categories:** fewer laps — Race 2: 4 laps (22.9 km), Race 3: 3 laps (31.1 km), Race 4: 3 laps (26.6 km)
 
@@ -92,4 +92,4 @@
 | R1 (R16) | Sep 16 – Oct 7, 2025 | ✅ |
 | R2 (R17) | Nov 4 – Dec 9, 2025 | ✅ |
 | R3 (R18) | Jan 6 – Feb 10, 2026 | ✅ |
-| R4 (R19) | Apr 7–28, 2026 | 🔄 In progress |
+| R4 (R19) | Apr 7–28, 2026 | ✅ Completed |
