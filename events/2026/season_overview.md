@@ -37,7 +37,7 @@
 | 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 км | ✅ |
 | 367 | 2026-04-30 | — | TTT | — | ✅ |
 | 368 | 2026-05-07 | — | TTT | — | ✅ |
-| 369 | 2026-05-14 | TBA | TTT | TBA | 🔜 Наступний |
+| 369 | 2026-05-14 | — | TTT | — | ✅ |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -45,7 +45,7 @@
 |-------|------|--------|--------|
 | Tour Watopia | 3–11 січня | 8 | ✅ |
 | World Tour | 14–22 лютого | 8 | ✅ |
-| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | � В процесі (ТУКР не зареєстровано) |
+| Grand Tour Triquetra | 25 квітня – 17 травня | 21 | ✅ Завершено (ТУКР не зареєстровано) |
 
 **💙💛 TUKR командні результати:**
 
@@ -101,7 +101,7 @@
 | Лют | 8 | FRR World Tour (8 етапів) — Чоловіки 🥇#1! |
 | Бер | 6+2 | DIRT Racing S11 (етапи 1–6 ✅, серію завершено, #4/304), WTRL TTT #359–360 ✅ |
 | Кві | 4+6 | ZRL R19 етапи 1–4 ✅ (сезон завершено), FRR Grand Tour Triquetra (починається 25.04, ТУКР не зареєстровано), WTRL TTT #361–368 ✅ |
-| Тра | 1+ | DIRT S12 етап 1 ✅, FRR Grand Tour Triquetra (до 17.05), WTRL TTT #368–369 |
+| Тра | 3+ | DIRT S12 етапи 1–2 ✅, FRR Grand Tour Triquetra ✅ (завершено 17.05, ТУКР не зареєстровано), WTRL TTT #369 ✅ |
 | Чер | | DIRT S12 (до 02.06), WTRL TTT |
 | Лип | | WTRL TTT (Canada Day Special 02.07) |
 | Сер | | |
@@ -147,7 +147,7 @@
 | 366 | 2026-04-23 | Volcano Flat | TTT | 25.2 km | ✅ |
 | 367 | 2026-04-30 | — | TTT | — | ✅ |
 | 368 | 2026-05-07 | — | TTT | — | ✅ |
-| 369 | 2026-05-14 | TBA | TTT | TBA | 🔜 Next |
+| 369 | 2026-05-14 | — | TTT | — | ✅ |
 | — | 2026-07-02 | TBA | 🇨🇦 Canada Day Special | TBA | 🔜 |
 
 #### 🔥 Flamme Rouge Racing (FRR) — Season 5
@@ -155,7 +155,7 @@
 |--------|-------|--------|--------|
 | Tour Watopia | Jan 3–11 | 8 | ✅ |
 | World Tour | Feb 14–22 | 8 | ✅ |
-| Grand Tour Triquetra | Apr 25 – May 17 | 21 | � In progress (TUKR not registered) |
+| Grand Tour Triquetra | Apr 25 – May 17 | 21 | ✅ Complete (TUKR not registered) |
 
 **💙💛 TUKR Team Results:**
 
@@ -183,8 +183,8 @@
 | # | Date | Route | Format | Status |
 |---|------|-------|--------|--------|
 | 1 | 2026-05-05 | TBA | TBA | ✅ |
-| 2 | 2026-05-12 | TBA | TBA | 🔜 |
-| 3 | 2026-05-19 | TBA | TBA | 🔜 |
+| 2 | 2026-05-12 | TBA | TBA | ✅ |
+| 3 | 2026-05-19 | TBA | TBA | 🔜 Наступний |
 | 4 | 2026-05-26 | TBA | TBA | 🔜 |
 | 5 | 2026-06-02 | TBA | TBA | 🔜 |
 
@@ -211,7 +211,7 @@
 | Feb | 8 | FRR World Tour (8 stages) — Men 🥇#1! |
 | Mar | 6+2 | DIRT Racing S11 (stages 1–6 ✅, series complete, #4/304), WTRL TTT #359–360 ✅ |
 | Apr | 4+8 | ZRL R19 races 1–4 ✅ (round completed), FRR Grand Tour Triquetra (starts Apr 25, TUKR not registered), WTRL TTT #361–368 ✅ |
-| May | 1+ | DIRT S12 stage 1 ✅, FRR Grand Tour Triquetra (ends May 17), WTRL TTT #368–369 |
+| May | 3+ | DIRT S12 stages 1–2 ✅, FRR Grand Tour Triquetra ✅ (ended May 17, TUKR not registered), WTRL TTT #369 ✅ |
 | Jun | | DIRT S12 (ends Jun 2), WTRL TTT |
 | Jul | | WTRL TTT (Canada Day Special Jul 2) |
 | Aug | | |
